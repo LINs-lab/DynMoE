@@ -22,7 +22,7 @@ Now, our **DynMoE** addresses these challenges through the two components introd
 
 ## Top-Any Gating
 
-<video controls src="https://i.imgur.com/bLgNaoH.mp4" title="Top-Any Gating"></video>
+https://i.imgur.com/bLgNaoH.mp4
 
 We first introduce a novel gating method that enables each token to **automatically determine the number of experts to activate**.
 

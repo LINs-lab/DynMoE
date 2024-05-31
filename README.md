@@ -40,7 +40,7 @@ Our method also includes an adaptive process **automatically adjusts the number 
 
 ## Model Zoo
 
-| Model | Activated Param / Total Params| Transformers(HF) |
+| Model | Activated Params / Total Params| Transformers(HF) |
 | ----- | --------------- | ---------------- |
 | DynMoE-StableLM-1.6B | 1.8B / 2.9B | [LINs-lab/DynMoE-StableLM-1.6B](https://huggingface.co/LINs-lab/DynMoE-StableLM-1.6B)
 | DynMoE-Qwen-1.8B | 2.2B / 3.1B | [LINs-lab/DynMoE-Qwen-1.8B](https://huggingface.co/LINs-lab/DynMoE-Qwen-1.8B)

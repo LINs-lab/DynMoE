@@ -1,0 +1,7328 @@
+[
+  {
+    "tid": 1,
+    "negative_1741": [
+      {
+        "token_id": 1,
+        "start_token": 202,
+        "end_token": 203,
+        "text": "suspect"
+      },
+      {
+        "token_id": 1,
+        "start_token": 227,
+        "end_token": 229,
+        "text": "very bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 270,
+        "end_token": 271,
+        "text": "Avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 249,
+        "end_token": 250,
+        "text": "distract"
+      }
+    ]
+  },
+  {
+    "tid": 5,
+    "negative_3678": [
+      {
+        "token_id": 1,
+        "start_token": 23,
+        "end_token": 24,
+        "text": "cold"
+      },
+      {
+        "token_id": 1,
+        "start_token": 42,
+        "end_token": 44,
+        "text": "fairly silly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 51,
+        "end_token": 52,
+        "text": "silliest"
+      },
+      {
+        "token_id": 1,
+        "start_token": 174,
+        "end_token": 175,
+        "text": "strange"
+      },
+      {
+        "token_id": 1,
+        "start_token": 264,
+        "end_token": 265,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 293,
+        "end_token": 296,
+        "text": "hard to tell"
+      },
+      {
+        "token_id": 1,
+        "start_token": 306,
+        "end_token": 307,
+        "text": "Unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 87,
+        "end_token": 88,
+        "text": "nose-thumbing"
+      }
+    ]
+  },
+  {
+    "tid": 7,
+    "negative_5217": [
+      {
+        "token_id": 1,
+        "start_token": 5,
+        "end_token": 7,
+        "text": "most boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 20,
+        "text": "absolutely god awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 24,
+        "end_token": 26,
+        "text": "very limited"
+      },
+      {
+        "token_id": 1,
+        "start_token": 33,
+        "end_token": 34,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 40,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 71,
+        "end_token": 74,
+        "text": "so damn boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 188,
+        "end_token": 190,
+        "text": "really overacts"
+      },
+      {
+        "token_id": 1,
+        "start_token": 222,
+        "end_token": 224,
+        "text": "most boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 234,
+        "end_token": 237,
+        "text": "absolutely god awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 241,
+        "end_token": 243,
+        "text": "very limited"
+      },
+      {
+        "token_id": 1,
+        "start_token": 249,
+        "end_token": 250,
+        "text": "avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 264,
+        "end_token": 265,
+        "text": "torture"
+      },
+      {
+        "token_id": 1,
+        "start_token": 269,
+        "end_token": 271,
+        "text": "absolutely terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 277,
+        "end_token": 279,
+        "text": "absolutely terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 287,
+        "end_token": 288,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 294,
+        "end_token": 295,
+        "text": "creepy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 303,
+        "end_token": 305,
+        "text": "incredibly dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 413,
+        "end_token": 415,
+        "text": "really bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 418,
+        "end_token": 419,
+        "text": "avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 423,
+        "end_token": 425,
+        "text": "not worth"
+      }
+    ]
+  },
+  {
+    "tid": 9,
+    "negative_1047": [
+      {
+        "token_id": 1,
+        "start_token": 439,
+        "end_token": 440,
+        "text": "mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 69,
+        "end_token": 71,
+        "text": "most annoying"
+      },
+      {
+        "token_id": 1,
+        "start_token": 216,
+        "end_token": 217,
+        "text": "mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 62,
+        "end_token": 63,
+        "text": "satire"
+      },
+      {
+        "token_id": 1,
+        "start_token": 65,
+        "end_token": 67,
+        "text": "so overdone"
+      },
+      {
+        "token_id": 1,
+        "start_token": 119,
+        "end_token": 122,
+        "text": "very bad nightmare"
+      }
+    ]
+  },
+  {
+    "tid": 11,
+    "negative_2114": [
+      {
+        "token_id": 1,
+        "start_token": 10,
+        "end_token": 13,
+        "text": "not be successful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 45,
+        "end_token": 49,
+        "text": "isn't too memorable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 92,
+        "end_token": 95,
+        "text": "fall flat."
+      },
+      {
+        "token_id": 1,
+        "start_token": 107,
+        "end_token": 109,
+        "text": "plain uninteresting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 137,
+        "end_token": 140,
+        "text": "didn't care"
+      },
+      {
+        "token_id": 1,
+        "start_token": 145,
+        "end_token": 146,
+        "text": "cliché"
+      },
+      {
+        "token_id": 1,
+        "start_token": 171,
+        "end_token": 172,
+        "text": "cliché"
+      },
+      {
+        "token_id": 1,
+        "start_token": 154,
+        "end_token": 157,
+        "text": "weren't funny"
+      },
+      {
+        "token_id": 1,
+        "start_token": 226,
+        "end_token": 227,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 247,
+        "end_token": 250,
+        "text": "waste of time"
+      },
+      {
+        "token_id": 1,
+        "start_token": 173,
+        "end_token": 174,
+        "text": "awful-"
+      }
+    ]
+  },
+  {
+    "tid": 13,
+    "negative_4362": [
+      {
+        "token_id": 1,
+        "start_token": 60,
+        "end_token": 62,
+        "text": "too weird"
+      },
+      {
+        "token_id": 1,
+        "start_token": 37,
+        "end_token": 38,
+        "text": "poorest"
+      },
+      {
+        "token_id": 1,
+        "start_token": 43,
+        "end_token": 44,
+        "text": "defence"
+      }
+    ]
+  },
+  {
+    "tid": 15,
+    "negative_4868": [
+      {
+        "token_id": 1,
+        "start_token": 24,
+        "end_token": 25,
+        "text": "cheaply"
+      },
+      {
+        "token_id": 1,
+        "start_token": 57,
+        "end_token": 58,
+        "text": "confused"
+      },
+      {
+        "token_id": 1,
+        "start_token": 59,
+        "end_token": 60,
+        "text": "unbelievable"
+      }
+    ]
+  },
+  {
+    "tid": 17,
+    "negative_2259": [
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 18,
+        "text": "garbage"
+      },
+      {
+        "token_id": 1,
+        "start_token": 350,
+        "end_token": 353,
+        "text": "can't recommend"
+      },
+      {
+        "token_id": 1,
+        "start_token": 354,
+        "end_token": 355,
+        "text": "trash"
+      },
+      {
+        "token_id": 1,
+        "start_token": 364,
+        "end_token": 365,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 370,
+        "end_token": 373,
+        "text": "atrociously padded trash"
+      }
+    ]
+  },
+  {
+    "tid": 21,
+    "negative_3791": [
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 14,
+        "text": "too bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 324,
+        "end_token": 325,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 460,
+        "end_token": 461,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 437,
+        "end_token": 438,
+        "text": "feeble"
+      },
+      {
+        "token_id": 1,
+        "start_token": 198,
+        "end_token": 200,
+        "text": "quite annoying"
+      }
+    ]
+  },
+  {
+    "tid": 23,
+    "negative_3704": [
+      {
+        "token_id": 1,
+        "start_token": 332,
+        "end_token": 333,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 218,
+        "end_token": 219,
+        "text": "lousy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 347,
+        "end_token": 349,
+        "text": "money back"
+      }
+    ]
+  },
+  {
+    "tid": 25,
+    "negative_2250": [
+      {
+        "token_id": 1,
+        "start_token": 114,
+        "end_token": 115,
+        "text": "grossing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 138,
+        "end_token": 139,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 132,
+        "end_token": 134,
+        "text": "simply boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 169,
+        "end_token": 170,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 171,
+        "end_token": 172,
+        "text": "annoying"
+      },
+      {
+        "token_id": 1,
+        "start_token": 174,
+        "end_token": 175,
+        "text": "non-creativity"
+      },
+      {
+        "token_id": 1,
+        "start_token": 204,
+        "end_token": 205,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 227,
+        "end_token": 228,
+        "text": "crap"
+      }
+    ]
+  },
+  {
+    "tid": 27,
+    "negative_346": [
+      {
+        "token_id": 1,
+        "start_token": 16,
+        "end_token": 17,
+        "text": "fake"
+      },
+      {
+        "token_id": 1,
+        "start_token": 106,
+        "end_token": 107,
+        "text": "downhill"
+      },
+      {
+        "token_id": 1,
+        "start_token": 243,
+        "end_token": 246,
+        "text": "doesn't work"
+      },
+      {
+        "token_id": 1,
+        "start_token": 250,
+        "end_token": 251,
+        "text": "confusing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 252,
+        "end_token": 253,
+        "text": "forced"
+      },
+      {
+        "token_id": 1,
+        "start_token": 268,
+        "end_token": 270,
+        "text": "pretty awful"
+      }
+    ]
+  },
+  {
+    "tid": 29,
+    "negative_4753": [
+      {
+        "token_id": 1,
+        "start_token": 342,
+        "end_token": 343,
+        "text": "heavy-handed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 347,
+        "end_token": 348,
+        "text": "low-budget"
+      },
+      {
+        "token_id": 1,
+        "start_token": 16,
+        "end_token": 17,
+        "text": "no-budget"
+      },
+      {
+        "token_id": 1,
+        "start_token": 20,
+        "end_token": 22,
+        "text": "no special"
+      }
+    ]
+  },
+  {
+    "tid": 31,
+    "negative_1181": [
+      {
+        "token_id": 1,
+        "start_token": 68,
+        "end_token": 69,
+        "text": "ridiculous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 256,
+        "end_token": 258,
+        "text": "let down"
+      }
+    ]
+  },
+  {
+    "tid": 35,
+    "negative_5769": [
+      {
+        "token_id": 1,
+        "start_token": 379,
+        "end_token": 380,
+        "text": "constructed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 382,
+        "end_token": 383,
+        "text": "comical."
+      },
+      {
+        "token_id": 1,
+        "start_token": 346,
+        "end_token": 347,
+        "text": "flat"
+      },
+      {
+        "token_id": 1,
+        "start_token": 441,
+        "end_token": 445,
+        "text": "not made clear."
+      }
+    ]
+  },
+  {
+    "tid": 37,
+    "negative_2224": [
+      {
+        "token_id": 1,
+        "start_token": 26,
+        "end_token": 27,
+        "text": "Regrettably"
+      },
+      {
+        "token_id": 1,
+        "start_token": 110,
+        "end_token": 111,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 411,
+        "end_token": 412,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 165,
+        "end_token": 166,
+        "text": "embarrassing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 174,
+        "end_token": 175,
+        "text": "stereotypes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "boring"
+      }
+    ]
+  },
+  {
+    "tid": 39,
+    "negative_5906": [
+      {
+        "token_id": 1,
+        "start_token": 5,
+        "end_token": 6,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 21,
+        "end_token": 22,
+        "text": "Awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 37,
+        "text": "low expectations"
+      },
+      {
+        "token_id": 1,
+        "start_token": 57,
+        "end_token": 58,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 427,
+        "end_token": 429,
+        "text": "obvious mistake"
+      },
+      {
+        "token_id": 1,
+        "start_token": 23,
+        "end_token": 26,
+        "text": "truly awful."
+      }
+    ]
+  },
+  {
+    "tid": 41,
+    "negative_5600": [
+      {
+        "token_id": 1,
+        "start_token": 59,
+        "end_token": 61,
+        "text": "very wooden"
+      },
+      {
+        "token_id": 1,
+        "start_token": 382,
+        "end_token": 384,
+        "text": "not enjoy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 166,
+        "end_token": 167,
+        "text": "warned"
+      },
+      {
+        "token_id": 1,
+        "start_token": 375,
+        "end_token": 377,
+        "text": "low budget"
+      }
+    ]
+  },
+  {
+    "tid": 43,
+    "negative_4044": [
+      {
+        "token_id": 1,
+        "start_token": 119,
+        "end_token": 120,
+        "text": "unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 150,
+        "end_token": 152,
+        "text": "no tension"
+      },
+      {
+        "token_id": 1,
+        "start_token": 181,
+        "end_token": 182,
+        "text": "not-quite-earthbound"
+      },
+      {
+        "token_id": 1,
+        "start_token": 211,
+        "end_token": 214,
+        "text": "never sucked in"
+      },
+      {
+        "token_id": 1,
+        "start_token": 256,
+        "end_token": 258,
+        "text": "Too bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 253,
+        "end_token": 254,
+        "text": "mistaken"
+      },
+      {
+        "token_id": 1,
+        "start_token": 231,
+        "end_token": 232,
+        "text": "improbable"
+      }
+    ]
+  },
+  {
+    "tid": 45,
+    "negative_2103": [
+      {
+        "token_id": 1,
+        "start_token": 31,
+        "end_token": 34,
+        "text": "not really good"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "flimsy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 170,
+        "end_token": 174,
+        "text": "won't get much"
+      }
+    ]
+  },
+  {
+    "tid": 47,
+    "negative_99": [
+      {
+        "token_id": 1,
+        "start_token": 176,
+        "end_token": 177,
+        "text": "wrong"
+      },
+      {
+        "token_id": 1,
+        "start_token": 182,
+        "end_token": 183,
+        "text": "disappoint"
+      },
+      {
+        "token_id": 1,
+        "start_token": 315,
+        "end_token": 319,
+        "text": "Don't even touch"
+      },
+      {
+        "token_id": 1,
+        "start_token": 356,
+        "end_token": 358,
+        "text": "Stay away"
+      },
+      {
+        "token_id": 1,
+        "start_token": 153,
+        "end_token": 154,
+        "text": "wrong"
+      },
+      {
+        "token_id": 1,
+        "start_token": 155,
+        "end_token": 157,
+        "text": "dead wrong"
+      },
+      {
+        "token_id": 1,
+        "start_token": 217,
+        "end_token": 218,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 272,
+        "end_token": 273,
+        "text": "crap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 278,
+        "end_token": 280,
+        "text": "so bored"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "boring"
+      }
+    ]
+  },
+  {
+    "tid": 49,
+    "negative_1098": [
+      {
+        "token_id": 1,
+        "start_token": 19,
+        "end_token": 20,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 36,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 40,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 267,
+        "end_token": 268,
+        "text": "Sorry"
+      }
+    ]
+  },
+  {
+    "tid": 51,
+    "negative_3896": [
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 363,
+        "end_token": 365,
+        "text": "Quite cheap"
+      }
+    ]
+  },
+  {
+    "tid": 53,
+    "negative_4938": [
+      {
+        "token_id": 1,
+        "start_token": 158,
+        "end_token": 160,
+        "text": "unwatchable mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 164,
+        "end_token": 166,
+        "text": "very dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 167,
+        "end_token": 168,
+        "text": "painful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 179,
+        "end_token": 180,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 175,
+        "end_token": 177,
+        "text": "avoid wasting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 262,
+        "end_token": 263,
+        "text": "vaguely"
+      },
+      {
+        "token_id": 1,
+        "start_token": 285,
+        "end_token": 286,
+        "text": "insult"
+      },
+      {
+        "token_id": 1,
+        "start_token": 307,
+        "end_token": 308,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 89,
+        "end_token": 90,
+        "text": "barely"
+      }
+    ]
+  },
+  {
+    "tid": 55,
+    "negative_5335": [
+      {
+        "token_id": 1,
+        "start_token": 9,
+        "end_token": 10,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 114,
+        "end_token": 116,
+        "text": "no discernible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 129,
+        "end_token": 130,
+        "text": "pastiche"
+      },
+      {
+        "token_id": 1,
+        "start_token": 222,
+        "end_token": 223,
+        "text": "tedium"
+      }
+    ]
+  },
+  {
+    "tid": 57,
+    "negative_4952": [
+      {
+        "token_id": 1,
+        "start_token": 48,
+        "end_token": 49,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 51,
+        "end_token": 52,
+        "text": "embarrassingly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 54,
+        "end_token": 55,
+        "text": "Stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 75,
+        "end_token": 76,
+        "text": "insipid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 72,
+        "end_token": 73,
+        "text": "clichéd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 79,
+        "end_token": 82,
+        "text": "hard to believe"
+      },
+      {
+        "token_id": 1,
+        "start_token": 92,
+        "end_token": 93,
+        "text": "gore"
+      },
+      {
+        "token_id": 1,
+        "start_token": 109,
+        "end_token": 110,
+        "text": "poorly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 291,
+        "end_token": 292,
+        "text": "Unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 302,
+        "end_token": 303,
+        "text": "endure"
+      },
+      {
+        "token_id": 1,
+        "start_token": 317,
+        "end_token": 318,
+        "text": "jeering"
+      },
+      {
+        "token_id": 1,
+        "start_token": 319,
+        "end_token": 320,
+        "text": "throwing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 328,
+        "end_token": 330,
+        "text": "so terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 492,
+        "end_token": 493,
+        "text": "cesspool"
+      }
+    ]
+  },
+  {
+    "tid": 59,
+    "negative_324": [
+      {
+        "token_id": 1,
+        "start_token": 79,
+        "end_token": 82,
+        "text": "didn't laugh"
+      },
+      {
+        "token_id": 1,
+        "start_token": 103,
+        "end_token": 105,
+        "text": "very poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 106,
+        "end_token": 107,
+        "text": "Convaluted"
+      },
+      {
+        "token_id": 1,
+        "start_token": 108,
+        "end_token": 109,
+        "text": "contrived"
+      },
+      {
+        "token_id": 1,
+        "start_token": 110,
+        "end_token": 112,
+        "text": "very loose"
+      },
+      {
+        "token_id": 1,
+        "start_token": 144,
+        "end_token": 147,
+        "text": "Full of holes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 261,
+        "text": "seemingly rushed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 271,
+        "end_token": 273,
+        "text": "so poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 311,
+        "end_token": 312,
+        "text": "fallen"
+      },
+      {
+        "token_id": 1,
+        "start_token": 351,
+        "end_token": 353,
+        "text": "Truly dreadful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 255,
+        "end_token": 258,
+        "text": "ill thought out"
+      }
+    ]
+  },
+  {
+    "tid": 63,
+    "negative_2211": [
+      {
+        "token_id": 1,
+        "start_token": 3,
+        "end_token": 5,
+        "text": "pretty dull"
+      }
+    ]
+  },
+  {
+    "tid": 65,
+    "negative_700": [
+      {
+        "token_id": 1,
+        "start_token": 37,
+        "end_token": 39,
+        "text": "convoluted nonsense"
+      },
+      {
+        "token_id": 1,
+        "start_token": 79,
+        "end_token": 81,
+        "text": "really atrocious"
+      }
+    ]
+  },
+  {
+    "tid": 67,
+    "negative_5950": [
+      {
+        "token_id": 1,
+        "start_token": 67,
+        "end_token": 68,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 69,
+        "end_token": 70,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 71,
+        "end_token": 72,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 127,
+        "end_token": 129,
+        "text": "endless clichés"
+      },
+      {
+        "token_id": 1,
+        "start_token": 171,
+        "end_token": 172,
+        "text": "intimidating"
+      },
+      {
+        "token_id": 1,
+        "start_token": 176,
+        "end_token": 177,
+        "text": "crescendo"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 191,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 235,
+        "end_token": 236,
+        "text": "strange"
+      },
+      {
+        "token_id": 1,
+        "start_token": 237,
+        "end_token": 238,
+        "text": "uneasy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 283,
+        "end_token": 284,
+        "text": "sleazy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 285,
+        "end_token": 286,
+        "text": "lubricious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 324,
+        "end_token": 325,
+        "text": "Uninspired"
+      },
+      {
+        "token_id": 1,
+        "start_token": 326,
+        "end_token": 327,
+        "text": "insipid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 328,
+        "end_token": 329,
+        "text": "repetitive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 330,
+        "end_token": 331,
+        "text": "hackneyed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 339,
+        "end_token": 340,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 376,
+        "end_token": 378,
+        "text": "Truly dire"
+      }
+    ]
+  },
+  {
+    "tid": 69,
+    "negative_5636": [
+      {
+        "token_id": 1,
+        "start_token": 86,
+        "end_token": 88,
+        "text": "pretty awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 146,
+        "end_token": 147,
+        "text": "choppy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 148,
+        "end_token": 149,
+        "text": "disjointed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 152,
+        "end_token": 153,
+        "text": "non-existent"
+      },
+      {
+        "token_id": 1,
+        "start_token": 159,
+        "end_token": 161,
+        "text": "incoherent ramble"
+      },
+      {
+        "token_id": 1,
+        "start_token": 164,
+        "end_token": 166,
+        "text": "weakly developed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 173,
+        "end_token": 174,
+        "text": "uninvolving."
+      },
+      {
+        "token_id": 1,
+        "start_token": 244,
+        "end_token": 245,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 249,
+        "end_token": 250,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 304,
+        "end_token": 305,
+        "text": "bad"
+      }
+    ]
+  },
+  {
+    "tid": 71,
+    "negative_5616": [
+      {
+        "token_id": 1,
+        "start_token": 81,
+        "end_token": 83,
+        "text": "pretty bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 45,
+        "end_token": 47,
+        "text": "so disjointed"
+      }
+    ]
+  },
+  {
+    "tid": 73,
+    "negative_4384": [
+      {
+        "token_id": 1,
+        "start_token": 280,
+        "end_token": 282,
+        "text": "disappointingly boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 288,
+        "end_token": 289,
+        "text": "bizarre"
+      },
+      {
+        "token_id": 1,
+        "start_token": 53,
+        "end_token": 55,
+        "text": "insufferably cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 56,
+        "end_token": 58,
+        "text": "tacky rubbish"
+      },
+      {
+        "token_id": 1,
+        "start_token": 242,
+        "end_token": 243,
+        "text": "trippy"
+      }
+    ]
+  },
+  {
+    "tid": 75,
+    "negative_3677": [
+      {
+        "token_id": 1,
+        "start_token": 323,
+        "end_token": 324,
+        "text": "rudimentary"
+      },
+      {
+        "token_id": 1,
+        "start_token": 329,
+        "end_token": 330,
+        "text": "flat"
+      },
+      {
+        "token_id": 1,
+        "start_token": 331,
+        "end_token": 332,
+        "text": "stilted"
+      },
+      {
+        "token_id": 1,
+        "start_token": 342,
+        "end_token": 343,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 445,
+        "end_token": 448,
+        "text": "Don't rent"
+      },
+      {
+        "token_id": 1,
+        "start_token": 460,
+        "end_token": 462,
+        "text": "too bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 348,
+        "end_token": 349,
+        "text": "bothered"
+      },
+      {
+        "token_id": 1,
+        "start_token": 30,
+        "end_token": 31,
+        "text": "undo"
+      },
+      {
+        "token_id": 1,
+        "start_token": 162,
+        "end_token": 163,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 473,
+        "end_token": 475,
+        "text": "entirely bogus"
+      },
+      {
+        "token_id": 1,
+        "start_token": 463,
+        "end_token": 464,
+        "text": "waste"
+      }
+    ]
+  },
+  {
+    "tid": 77,
+    "negative_3088": [
+      {
+        "token_id": 1,
+        "start_token": 8,
+        "end_token": 9,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 33,
+        "end_token": 34,
+        "text": "disappoint"
+      },
+      {
+        "token_id": 1,
+        "start_token": 179,
+        "end_token": 180,
+        "text": "simple"
+      },
+      {
+        "token_id": 1,
+        "start_token": 209,
+        "end_token": 210,
+        "text": "afraid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 212,
+        "end_token": 214,
+        "text": "very afraid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 268,
+        "end_token": 269,
+        "text": "cheap"
+      }
+    ]
+  },
+  {
+    "tid": 79,
+    "negative_2739": [
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 15,
+        "text": "takes the biscuit"
+      },
+      {
+        "token_id": 1,
+        "start_token": 28,
+        "end_token": 29,
+        "text": "nothing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 218,
+        "end_token": 220,
+        "text": "truly horrific"
+      },
+      {
+        "token_id": 1,
+        "start_token": 227,
+        "end_token": 228,
+        "text": "rubbish"
+      },
+      {
+        "token_id": 1,
+        "start_token": 242,
+        "end_token": 243,
+        "text": "pants"
+      },
+      {
+        "token_id": 1,
+        "start_token": 245,
+        "end_token": 246,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 274,
+        "end_token": 276,
+        "text": "so dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 337,
+        "text": "excrement"
+      },
+      {
+        "token_id": 1,
+        "start_token": 313,
+        "end_token": 314,
+        "text": "woeful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 284,
+        "end_token": 287,
+        "text": "slit my wrists"
+      },
+      {
+        "token_id": 1,
+        "start_token": 44,
+        "end_token": 45,
+        "text": "destroy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 40,
+        "text": "flick"
+      }
+    ]
+  },
+  {
+    "tid": 81,
+    "negative_2914": [
+      {
+        "token_id": 1,
+        "start_token": 52,
+        "end_token": 54,
+        "text": "so horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 186,
+        "end_token": 187,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 198,
+        "end_token": 199,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 338,
+        "text": "most worthless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 339,
+        "end_token": 340,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 341,
+        "end_token": 342,
+        "text": "dumbass"
+      },
+      {
+        "token_id": 1,
+        "start_token": 22,
+        "end_token": 23,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 61,
+        "end_token": 62,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 141,
+        "end_token": 142,
+        "text": "wastes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 260,
+        "end_token": 261,
+        "text": "waste"
+      }
+    ]
+  },
+  {
+    "tid": 83,
+    "negative_4159": [
+      {
+        "token_id": 1,
+        "start_token": 217,
+        "end_token": 218,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 225,
+        "end_token": 226,
+        "text": "scoffed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 13,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 194,
+        "end_token": 195,
+        "text": "horrible"
+      }
+    ]
+  },
+  {
+    "tid": 85,
+    "negative_2665": [
+      {
+        "token_id": 1,
+        "start_token": 74,
+        "end_token": 75,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 45,
+        "end_token": 46,
+        "text": "Unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 267,
+        "end_token": 268,
+        "text": "bemused"
+      },
+      {
+        "token_id": 1,
+        "start_token": 244,
+        "end_token": 246,
+        "text": "uncommonly brutal"
+      },
+      {
+        "token_id": 1,
+        "start_token": 306,
+        "end_token": 307,
+        "text": "uncomfortable"
+      }
+    ]
+  },
+  {
+    "tid": 87,
+    "negative_5289": [
+      {
+        "token_id": 1,
+        "start_token": 43,
+        "end_token": 44,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 76,
+        "end_token": 77,
+        "text": "crap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 103,
+        "end_token": 104,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 105,
+        "end_token": 106,
+        "text": "absurd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 107,
+        "end_token": 108,
+        "text": "laughable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 181,
+        "end_token": 182,
+        "text": "nonexistent"
+      }
+    ]
+  },
+  {
+    "tid": 89,
+    "negative_4282": [
+      {
+        "token_id": 1,
+        "start_token": 9,
+        "end_token": 10,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 31,
+        "end_token": 32,
+        "text": "juvenile"
+      },
+      {
+        "token_id": 1,
+        "start_token": 33,
+        "end_token": 34,
+        "text": "sub-moronic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 52,
+        "end_token": 54,
+        "text": "plain dumb"
+      },
+      {
+        "token_id": 1,
+        "start_token": 66,
+        "end_token": 68,
+        "text": "so stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 78,
+        "end_token": 80,
+        "text": "completely lame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 119,
+        "end_token": 121,
+        "text": "completely awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 101,
+        "end_token": 102,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 129,
+        "end_token": 130,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 134,
+        "end_token": 135,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 143,
+        "end_token": 146,
+        "text": "not entertainment value"
+      },
+      {
+        "token_id": 1,
+        "start_token": 182,
+        "end_token": 183,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 161,
+        "end_token": 162,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 168,
+        "end_token": 169,
+        "text": "badness"
+      },
+      {
+        "token_id": 1,
+        "start_token": 210,
+        "end_token": 211,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 264,
+        "end_token": 265,
+        "text": "refund"
+      }
+    ]
+  },
+  {
+    "tid": 91,
+    "negative_3672": [
+      {
+        "token_id": 1,
+        "start_token": 388,
+        "end_token": 391,
+        "text": "isn't worth"
+      },
+      {
+        "token_id": 1,
+        "start_token": 409,
+        "end_token": 410,
+        "text": "dud"
+      },
+      {
+        "token_id": 1,
+        "start_token": 88,
+        "end_token": 89,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 101,
+        "end_token": 102,
+        "text": "obscure"
+      },
+      {
+        "token_id": 1,
+        "start_token": 120,
+        "end_token": 122,
+        "text": "irredeemably dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 123,
+        "end_token": 124,
+        "text": "irritating"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 191,
+        "text": "boring"
+      }
+    ]
+  },
+  {
+    "tid": 93,
+    "negative_1729": [
+      {
+        "token_id": 1,
+        "start_token": 5,
+        "end_token": 6,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 62,
+        "end_token": 63,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 71,
+        "end_token": 73,
+        "text": "rotten enough"
+      },
+      {
+        "token_id": 1,
+        "start_token": 360,
+        "end_token": 361,
+        "text": "dogcrap"
+      }
+    ]
+  },
+  {
+    "tid": 95,
+    "negative_3837": [
+      {
+        "token_id": 1,
+        "start_token": 153,
+        "end_token": 154,
+        "text": "unprofessional"
+      },
+      {
+        "token_id": 1,
+        "start_token": 455,
+        "end_token": 456,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 29,
+        "end_token": 30,
+        "text": "patronizing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 54,
+        "end_token": 57,
+        "text": "very 'artificial'"
+      },
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 36,
+        "text": "preaching."
+      },
+      {
+        "token_id": 1,
+        "start_token": 175,
+        "end_token": 177,
+        "text": "'akward'"
+      }
+    ]
+  },
+  {
+    "tid": 97,
+    "negative_3966": [
+      {
+        "token_id": 1,
+        "start_token": 15,
+        "end_token": 16,
+        "text": "PATHETIC"
+      },
+      {
+        "token_id": 1,
+        "start_token": 85,
+        "end_token": 86,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 90,
+        "end_token": 91,
+        "text": "debutant"
+      },
+      {
+        "token_id": 1,
+        "start_token": 131,
+        "end_token": 132,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 146,
+        "end_token": 148,
+        "text": "not recommend"
+      },
+      {
+        "token_id": 1,
+        "start_token": 238,
+        "end_token": 239,
+        "text": "wasted"
+      }
+    ]
+  },
+  {
+    "tid": 99,
+    "negative_2378": [
+      {
+        "token_id": 1,
+        "start_token": 38,
+        "end_token": 39,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 450,
+        "end_token": 451,
+        "text": "saddens"
+      },
+      {
+        "token_id": 1,
+        "start_token": 421,
+        "end_token": 422,
+        "text": "unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 338,
+        "end_token": 339,
+        "text": "asinine"
+      }
+    ]
+  },
+  {
+    "tid": 101,
+    "negative_1652": [
+      {
+        "token_id": 1,
+        "start_token": 42,
+        "end_token": 43,
+        "text": "junk"
+      },
+      {
+        "token_id": 1,
+        "start_token": 50,
+        "end_token": 51,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 113,
+        "end_token": 114,
+        "text": "embarrassing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 181,
+        "end_token": 182,
+        "text": "lame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 183,
+        "end_token": 184,
+        "text": "low-brain"
+      },
+      {
+        "token_id": 1,
+        "start_token": 189,
+        "end_token": 190,
+        "text": "gruesome"
+      },
+      {
+        "token_id": 1,
+        "start_token": 192,
+        "end_token": 194,
+        "text": "very hilarious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 195,
+        "end_token": 196,
+        "text": "cheap"
+      }
+    ]
+  },
+  {
+    "tid": 103,
+    "negative_2635": [
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 3,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 13,
+        "end_token": 14,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 25,
+        "end_token": 26,
+        "text": "cliches"
+      },
+      {
+        "token_id": 1,
+        "start_token": 32,
+        "end_token": 33,
+        "text": "objectionable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 119,
+        "end_token": 120,
+        "text": "nonsensichal"
+      },
+      {
+        "token_id": 1,
+        "start_token": 133,
+        "end_token": 135,
+        "text": "Very poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 300,
+        "end_token": 303,
+        "text": "couldn't succeed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 439,
+        "end_token": 441,
+        "text": "stop going"
+      },
+      {
+        "token_id": 1,
+        "start_token": 102,
+        "end_token": 103,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 21,
+        "end_token": 22,
+        "text": "miserable"
+      }
+    ]
+  },
+  {
+    "tid": 105,
+    "negative_709": [
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 4,
+        "text": "damn it"
+      },
+      {
+        "token_id": 1,
+        "start_token": 18,
+        "end_token": 19,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 20,
+        "end_token": 21,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 116,
+        "end_token": 118,
+        "text": "pretty poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 227,
+        "end_token": 229,
+        "text": "pretty dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 246,
+        "end_token": 247,
+        "text": "seedy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 248,
+        "end_token": 249,
+        "text": "cheesy"
+      }
+    ]
+  },
+  {
+    "tid": 107,
+    "negative_3221": [
+      {
+        "token_id": 1,
+        "start_token": 31,
+        "end_token": 32,
+        "text": "silly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 59,
+        "end_token": 60,
+        "text": "awkwardness"
+      },
+      {
+        "token_id": 1,
+        "start_token": 55,
+        "end_token": 56,
+        "text": "loathed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 83,
+        "end_token": 84,
+        "text": "strange"
+      },
+      {
+        "token_id": 1,
+        "start_token": 224,
+        "end_token": 225,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 191,
+        "end_token": 192,
+        "text": "ashamed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 27,
+        "end_token": 28,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 207,
+        "end_token": 208,
+        "text": "rubbish"
+      }
+    ]
+  },
+  {
+    "tid": 111,
+    "negative_1338": [
+      {
+        "token_id": 1,
+        "start_token": 159,
+        "end_token": 160,
+        "text": "tedious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 214,
+        "end_token": 215,
+        "text": "wasted"
+      }
+    ]
+  },
+  {
+    "tid": 113,
+    "negative_5370": [
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 18,
+        "text": "headache"
+      },
+      {
+        "token_id": 1,
+        "start_token": 59,
+        "end_token": 60,
+        "text": "headache"
+      },
+      {
+        "token_id": 1,
+        "start_token": 162,
+        "end_token": 163,
+        "text": "confusion"
+      },
+      {
+        "token_id": 1,
+        "start_token": 157,
+        "end_token": 158,
+        "text": "confusion"
+      },
+      {
+        "token_id": 1,
+        "start_token": 192,
+        "end_token": 194,
+        "text": "horribly fake"
+      },
+      {
+        "token_id": 1,
+        "start_token": 332,
+        "end_token": 334,
+        "text": "pretty bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 337,
+        "text": "poorly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 340,
+        "end_token": 341,
+        "text": "confusing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 342,
+        "end_token": 343,
+        "text": "improbable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 344,
+        "end_token": 345,
+        "text": "anticlimactic"
+      }
+    ]
+  },
+  {
+    "tid": 115,
+    "negative_230": [
+      {
+        "token_id": 1,
+        "start_token": 8,
+        "end_token": 9,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 53,
+        "end_token": 54,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 40,
+        "text": "eccentric"
+      },
+      {
+        "token_id": 1,
+        "start_token": 45,
+        "end_token": 46,
+        "text": "clichéd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 367,
+        "end_token": 369,
+        "text": "relentlessly silly"
+      }
+    ]
+  },
+  {
+    "tid": 117,
+    "negative_399": [
+      {
+        "token_id": 1,
+        "start_token": 134,
+        "end_token": 135,
+        "text": "badly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 137,
+        "end_token": 139,
+        "text": "went down"
+      },
+      {
+        "token_id": 1,
+        "start_token": 188,
+        "end_token": 189,
+        "text": "disjointed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 249,
+        "end_token": 250,
+        "text": "atrocious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 271,
+        "end_token": 272,
+        "text": "exhausting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 265,
+        "end_token": 267,
+        "text": "complete randomness"
+      },
+      {
+        "token_id": 1,
+        "start_token": 281,
+        "end_token": 283,
+        "text": "so stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 334,
+        "end_token": 335,
+        "text": "dumbed-down"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 337,
+        "text": "generic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 338,
+        "end_token": 339,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 340,
+        "end_token": 341,
+        "text": "non-sensical"
+      },
+      {
+        "token_id": 1,
+        "start_token": 437,
+        "end_token": 438,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 462,
+        "end_token": 464,
+        "text": "not worth"
+      }
+    ]
+  },
+  {
+    "tid": 119,
+    "negative_1710": [
+      {
+        "token_id": 1,
+        "start_token": 25,
+        "end_token": 26,
+        "text": "crap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 34,
+        "end_token": 36,
+        "text": "really stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 40,
+        "end_token": 42,
+        "text": "really pathetic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 131,
+        "end_token": 133,
+        "text": "so boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 193,
+        "end_token": 194,
+        "text": "distortion"
+      },
+      {
+        "token_id": 1,
+        "start_token": 191,
+        "end_token": 192,
+        "text": "blurring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 208,
+        "end_token": 211,
+        "text": "NOT a good"
+      },
+      {
+        "token_id": 1,
+        "start_token": 248,
+        "end_token": 249,
+        "text": "Skip"
+      }
+    ]
+  },
+  {
+    "tid": 121,
+    "negative_2590": [
+      {
+        "token_id": 1,
+        "start_token": 64,
+        "end_token": 65,
+        "text": "bored"
+      },
+      {
+        "token_id": 1,
+        "start_token": 122,
+        "end_token": 125,
+        "text": "didn't care"
+      },
+      {
+        "token_id": 1,
+        "start_token": 153,
+        "end_token": 156,
+        "text": "couldn't feel"
+      },
+      {
+        "token_id": 1,
+        "start_token": 202,
+        "end_token": 205,
+        "text": "not significant enough"
+      }
+    ]
+  },
+  {
+    "tid": 123,
+    "negative_5955": [
+      {
+        "token_id": 1,
+        "start_token": 104,
+        "end_token": 105,
+        "text": "horror"
+      },
+      {
+        "token_id": 1,
+        "start_token": 192,
+        "end_token": 193,
+        "text": "Shame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 182,
+        "end_token": 185,
+        "text": "loss afresh."
+      }
+    ]
+  },
+  {
+    "tid": 125,
+    "negative_3308": [
+      {
+        "token_id": 1,
+        "start_token": 74,
+        "end_token": 75,
+        "text": "Unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 110,
+        "end_token": 112,
+        "text": "dark seriously"
+      },
+      {
+        "token_id": 1,
+        "start_token": 114,
+        "end_token": 115,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 297,
+        "end_token": 298,
+        "text": "unexpected"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 193,
+        "text": "split personality disorder"
+      },
+      {
+        "token_id": 1,
+        "start_token": 59,
+        "end_token": 60,
+        "text": "cliché"
+      },
+      {
+        "token_id": 1,
+        "start_token": 232,
+        "end_token": 235,
+        "text": "wouldn't recommend"
+      }
+    ]
+  },
+  {
+    "tid": 127,
+    "negative_1526": [
+      {
+        "token_id": 1,
+        "start_token": 43,
+        "end_token": 44,
+        "text": "aimless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 46,
+        "end_token": 47,
+        "text": "weak"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "uninspired"
+      },
+      {
+        "token_id": 1,
+        "start_token": 53,
+        "end_token": 54,
+        "text": "unfunny"
+      },
+      {
+        "token_id": 1,
+        "start_token": 317,
+        "end_token": 318,
+        "text": "violent"
+      },
+      {
+        "token_id": 1,
+        "start_token": 87,
+        "end_token": 89,
+        "text": "goofy mockumentary"
+      },
+      {
+        "token_id": 1,
+        "start_token": 104,
+        "end_token": 106,
+        "text": "outrageous satire"
+      },
+      {
+        "token_id": 1,
+        "start_token": 110,
+        "end_token": 112,
+        "text": "totally waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 243,
+        "end_token": 244,
+        "text": "nuke"
+      }
+    ]
+  },
+  {
+    "tid": 129,
+    "negative_483": [
+      {
+        "token_id": 1,
+        "start_token": 21,
+        "end_token": 22,
+        "text": "weak"
+      },
+      {
+        "token_id": 1,
+        "start_token": 27,
+        "end_token": 28,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 48,
+        "end_token": 50,
+        "text": "very weak"
+      },
+      {
+        "token_id": 1,
+        "start_token": 59,
+        "end_token": 62,
+        "text": "not very interesting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 40,
+        "end_token": 41,
+        "text": "stinks"
+      },
+      {
+        "token_id": 1,
+        "start_token": 65,
+        "end_token": 66,
+        "text": "bored"
+      },
+      {
+        "token_id": 1,
+        "start_token": 165,
+        "end_token": 166,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 191,
+        "end_token": 193,
+        "text": "incredibly bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 218,
+        "end_token": 219,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 386,
+        "end_token": 387,
+        "text": "avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 390,
+        "end_token": 392,
+        "text": "not worth"
+      },
+      {
+        "token_id": 1,
+        "start_token": 393,
+        "end_token": 394,
+        "text": "torture"
+      },
+      {
+        "token_id": 1,
+        "start_token": 3,
+        "end_token": 5,
+        "text": "god awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 254,
+        "end_token": 256,
+        "text": "really bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 14,
+        "text": "most annoying"
+      }
+    ]
+  },
+  {
+    "tid": 131,
+    "negative_495": [
+      {
+        "token_id": 1,
+        "start_token": 125,
+        "end_token": 126,
+        "text": "dead"
+      },
+      {
+        "token_id": 1,
+        "start_token": 204,
+        "end_token": 205,
+        "text": "bad."
+      }
+    ]
+  },
+  {
+    "tid": 133,
+    "negative_3655": [
+      {
+        "token_id": 1,
+        "start_token": 24,
+        "end_token": 25,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 40,
+        "text": "cringe"
+      },
+      {
+        "token_id": 1,
+        "start_token": 219,
+        "end_token": 220,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 123,
+        "end_token": 125,
+        "text": "so stupid"
+      }
+    ]
+  },
+  {
+    "tid": 137,
+    "negative_4922": [
+      {
+        "token_id": 1,
+        "start_token": 85,
+        "end_token": 87,
+        "text": "neither funny"
+      },
+      {
+        "token_id": 1,
+        "start_token": 96,
+        "end_token": 98,
+        "text": "nor exciting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 313,
+        "end_token": 315,
+        "text": "irritatingly hectic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 321,
+        "end_token": 322,
+        "text": "trouble"
+      },
+      {
+        "token_id": 1,
+        "start_token": 350,
+        "end_token": 352,
+        "text": "no need"
+      },
+      {
+        "token_id": 1,
+        "start_token": 356,
+        "end_token": 357,
+        "text": "avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 358,
+        "end_token": 360,
+        "text": "horrible mess"
+      }
+    ]
+  },
+  {
+    "tid": 139,
+    "negative_5586": [
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 3,
+        "text": "nasty"
+      },
+      {
+        "token_id": 1,
+        "start_token": 8,
+        "end_token": 9,
+        "text": "sad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 80,
+        "end_token": 82,
+        "text": "so offensive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 84,
+        "end_token": 85,
+        "text": "clichéd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 103,
+        "end_token": 104,
+        "text": "Shoddy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 105,
+        "end_token": 106,
+        "text": "cruel"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 192,
+        "text": "ugly trash"
+      },
+      {
+        "token_id": 1,
+        "start_token": 200,
+        "end_token": 201,
+        "text": "shallow"
+      },
+      {
+        "token_id": 1,
+        "start_token": 202,
+        "end_token": 204,
+        "text": "soul less"
+      },
+      {
+        "token_id": 1,
+        "start_token": 208,
+        "end_token": 210,
+        "text": "very wrong"
+      }
+    ]
+  },
+  {
+    "tid": 141,
+    "negative_972": [
+      {
+        "token_id": 1,
+        "start_token": 26,
+        "end_token": 27,
+        "text": "Sadly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 225,
+        "end_token": 226,
+        "text": "Unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 219,
+        "end_token": 221,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 269,
+        "end_token": 270,
+        "text": "atrocious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 273,
+        "end_token": 275,
+        "text": "zero continuity"
+      },
+      {
+        "token_id": 1,
+        "start_token": 282,
+        "end_token": 284,
+        "text": "genuinely slow"
+      },
+      {
+        "token_id": 1,
+        "start_token": 285,
+        "end_token": 287,
+        "text": "lacking energy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 305,
+        "end_token": 306,
+        "text": "gag"
+      },
+      {
+        "token_id": 1,
+        "start_token": 316,
+        "end_token": 317,
+        "text": "pointless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 365,
+        "end_token": 367,
+        "text": "Unfortunately terrible"
+      }
+    ]
+  },
+  {
+    "tid": 143,
+    "negative_3728": [
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 19,
+        "text": "pretty boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 300,
+        "end_token": 301,
+        "text": "stank"
+      },
+      {
+        "token_id": 1,
+        "start_token": 303,
+        "end_token": 305,
+        "text": "too long"
+      },
+      {
+        "token_id": 1,
+        "start_token": 306,
+        "end_token": 308,
+        "text": "increasingly boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 309,
+        "end_token": 312,
+        "text": "don't watch"
+      },
+      {
+        "token_id": 1,
+        "start_token": 314,
+        "end_token": 317,
+        "text": "Don't buy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 322,
+        "end_token": 323,
+        "text": "waste"
+      }
+    ]
+  },
+  {
+    "tid": 145,
+    "negative_5264": [
+      {
+        "token_id": 1,
+        "start_token": 104,
+        "end_token": 105,
+        "text": "doubts"
+      },
+      {
+        "token_id": 1,
+        "start_token": 173,
+        "end_token": 174,
+        "text": "corny"
+      },
+      {
+        "token_id": 1,
+        "start_token": 202,
+        "end_token": 203,
+        "text": "slurred"
+      },
+      {
+        "token_id": 1,
+        "start_token": 199,
+        "end_token": 200,
+        "text": "strained"
+      }
+    ]
+  },
+  {
+    "tid": 147,
+    "negative_1120": [
+      {
+        "token_id": 1,
+        "start_token": 32,
+        "end_token": 34,
+        "text": "failed miserably"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 191,
+        "end_token": 192,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 235,
+        "end_token": 236,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 29,
+        "end_token": 31,
+        "text": "truly scary"
+      },
+      {
+        "token_id": 1,
+        "start_token": 78,
+        "end_token": 79,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 147,
+        "end_token": 148,
+        "text": "gutter"
+      }
+    ]
+  },
+  {
+    "tid": 149,
+    "negative_3817": [
+      {
+        "token_id": 1,
+        "start_token": 68,
+        "end_token": 69,
+        "text": "roughies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 161,
+        "end_token": 162,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 275,
+        "end_token": 276,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 285,
+        "end_token": 286,
+        "text": "sleaze"
+      },
+      {
+        "token_id": 1,
+        "start_token": 287,
+        "end_token": 288,
+        "text": "grindhouse"
+      }
+    ]
+  },
+  {
+    "tid": 151,
+    "negative_5114": [
+      {
+        "token_id": 1,
+        "start_token": 37,
+        "end_token": 38,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 92,
+        "end_token": 95,
+        "text": "did not work"
+      },
+      {
+        "token_id": 1,
+        "start_token": 168,
+        "end_token": 170,
+        "text": "very unnecessary"
+      }
+    ]
+  },
+  {
+    "tid": 153,
+    "negative_5009": [
+      {
+        "token_id": 1,
+        "start_token": 163,
+        "end_token": 164,
+        "text": "lacked"
+      },
+      {
+        "token_id": 1,
+        "start_token": 194,
+        "end_token": 195,
+        "text": "doubtful"
+      }
+    ]
+  },
+  {
+    "tid": 155,
+    "negative_3673": [
+      {
+        "token_id": 1,
+        "start_token": 141,
+        "end_token": 142,
+        "text": "hard"
+      },
+      {
+        "token_id": 1,
+        "start_token": 183,
+        "end_token": 184,
+        "text": "repeat"
+      }
+    ]
+  },
+  {
+    "tid": 157,
+    "negative_4594": [
+      {
+        "token_id": 1,
+        "start_token": 26,
+        "end_token": 29,
+        "text": "waste of time"
+      },
+      {
+        "token_id": 1,
+        "start_token": 106,
+        "end_token": 109,
+        "text": "trying too hard"
+      },
+      {
+        "token_id": 1,
+        "start_token": 135,
+        "end_token": 137,
+        "text": "so lackluster"
+      },
+      {
+        "token_id": 1,
+        "start_token": 313,
+        "end_token": 314,
+        "text": "unfunniness"
+      },
+      {
+        "token_id": 1,
+        "start_token": 284,
+        "end_token": 285,
+        "text": "insult"
+      },
+      {
+        "token_id": 1,
+        "start_token": 238,
+        "end_token": 239,
+        "text": "wasted"
+      },
+      {
+        "token_id": 1,
+        "start_token": 242,
+        "end_token": 243,
+        "text": "painful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 71,
+        "end_token": 72,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 310,
+        "end_token": 311,
+        "text": "torture"
+      },
+      {
+        "token_id": 1,
+        "start_token": 250,
+        "end_token": 252,
+        "text": "'bizarre'"
+      },
+      {
+        "token_id": 1,
+        "start_token": 253,
+        "end_token": 255,
+        "text": "'goof'"
+      }
+    ]
+  },
+  {
+    "tid": 161,
+    "negative_420": [
+      {
+        "token_id": 1,
+        "start_token": 116,
+        "end_token": 117,
+        "text": "dated"
+      },
+      {
+        "token_id": 1,
+        "start_token": 119,
+        "end_token": 121,
+        "text": "fatal flaws"
+      },
+      {
+        "token_id": 1,
+        "start_token": 138,
+        "end_token": 141,
+        "text": "lack of humor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 204,
+        "end_token": 206,
+        "text": "no humanity"
+      },
+      {
+        "token_id": 1,
+        "start_token": 213,
+        "end_token": 215,
+        "text": "very abstract"
+      },
+      {
+        "token_id": 1,
+        "start_token": 230,
+        "end_token": 232,
+        "text": "too bored"
+      },
+      {
+        "token_id": 1,
+        "start_token": 75,
+        "end_token": 76,
+        "text": "incomprehensible"
+      }
+    ]
+  },
+  {
+    "tid": 163,
+    "negative_4863": [
+      {
+        "token_id": 1,
+        "start_token": 132,
+        "end_token": 133,
+        "text": "Unfortunately"
+      },
+      {
+        "token_id": 1,
+        "start_token": 236,
+        "end_token": 237,
+        "text": "misleading"
+      },
+      {
+        "token_id": 1,
+        "start_token": 292,
+        "end_token": 293,
+        "text": "Heck"
+      }
+    ]
+  },
+  {
+    "tid": 167,
+    "negative_747": [
+      {
+        "token_id": 1,
+        "start_token": 207,
+        "end_token": 208,
+        "text": "ridiculous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 255,
+        "end_token": 256,
+        "text": "incoherent"
+      },
+      {
+        "token_id": 1,
+        "start_token": 279,
+        "end_token": 282,
+        "text": "no genre focus"
+      },
+      {
+        "token_id": 1,
+        "start_token": 334,
+        "end_token": 335,
+        "text": "hackneyed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 288,
+        "end_token": 290,
+        "text": "super soft"
+      },
+      {
+        "token_id": 1,
+        "start_token": 422,
+        "end_token": 423,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 424,
+        "end_token": 425,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 408,
+        "end_token": 409,
+        "text": "Creepy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 353,
+        "end_token": 354,
+        "text": "Worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 484,
+        "end_token": 485,
+        "text": "BEWARE"
+      },
+      {
+        "token_id": 1,
+        "start_token": 469,
+        "end_token": 470,
+        "text": "exploitation"
+      }
+    ]
+  },
+  {
+    "tid": 169,
+    "negative_3331": [
+      {
+        "token_id": 1,
+        "start_token": 26,
+        "end_token": 28,
+        "text": "SO BADLY"
+      },
+      {
+        "token_id": 1,
+        "start_token": 60,
+        "end_token": 61,
+        "text": "horribly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 62,
+        "end_token": 63,
+        "text": "fails"
+      },
+      {
+        "token_id": 1,
+        "start_token": 80,
+        "end_token": 83,
+        "text": "not flow well"
+      },
+      {
+        "token_id": 1,
+        "start_token": 171,
+        "end_token": 174,
+        "text": "absolutely no chemistry"
+      },
+      {
+        "token_id": 1,
+        "start_token": 177,
+        "end_token": 178,
+        "text": "painful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 188,
+        "end_token": 191,
+        "text": "not a good"
+      },
+      {
+        "token_id": 1,
+        "start_token": 223,
+        "end_token": 224,
+        "text": "failure"
+      },
+      {
+        "token_id": 1,
+        "start_token": 254,
+        "end_token": 255,
+        "text": "offended"
+      },
+      {
+        "token_id": 1,
+        "start_token": 257,
+        "end_token": 258,
+        "text": "miserable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 268,
+        "end_token": 269,
+        "text": "low-budget"
+      },
+      {
+        "token_id": 1,
+        "start_token": 271,
+        "end_token": 272,
+        "text": "excuse"
+      }
+    ]
+  },
+  {
+    "tid": 171,
+    "negative_1583": [
+      {
+        "token_id": 1,
+        "start_token": 19,
+        "end_token": 20,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 65,
+        "end_token": 67,
+        "text": "pastel-coloured mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 90,
+        "end_token": 92,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 74,
+        "end_token": 75,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 113,
+        "end_token": 114,
+        "text": "inaccuracies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 253,
+        "end_token": 256,
+        "text": "mostly very bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 118,
+        "end_token": 119,
+        "text": "inaccuracies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 121,
+        "end_token": 122,
+        "text": "inaccuracies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 126,
+        "end_token": 127,
+        "text": "inaccuracies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 146,
+        "end_token": 148,
+        "text": "Extremely tacky"
+      },
+      {
+        "token_id": 1,
+        "start_token": 163,
+        "end_token": 164,
+        "text": "hilarious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 5,
+        "text": "what a heck"
+      }
+    ]
+  },
+  {
+    "tid": 173,
+    "negative_64": [
+      {
+        "token_id": 1,
+        "start_token": 151,
+        "end_token": 152,
+        "text": "letdown"
+      },
+      {
+        "token_id": 1,
+        "start_token": 212,
+        "end_token": 213,
+        "text": "clichè"
+      },
+      {
+        "token_id": 1,
+        "start_token": 196,
+        "end_token": 198,
+        "text": "Nothing new"
+      },
+      {
+        "token_id": 1,
+        "start_token": 240,
+        "end_token": 241,
+        "text": "clichès"
+      },
+      {
+        "token_id": 1,
+        "start_token": 237,
+        "end_token": 238,
+        "text": "gags"
+      }
+    ]
+  },
+  {
+    "tid": 175,
+    "negative_4102": [
+      {
+        "token_id": 1,
+        "start_token": 71,
+        "end_token": 72,
+        "text": "Mistaken"
+      },
+      {
+        "token_id": 1,
+        "start_token": 191,
+        "end_token": 192,
+        "text": "gags"
+      },
+      {
+        "token_id": 1,
+        "start_token": 188,
+        "end_token": 189,
+        "text": "gags"
+      }
+    ]
+  },
+  {
+    "tid": 177,
+    "negative_44": [
+      {
+        "token_id": 1,
+        "start_token": 29,
+        "end_token": 31,
+        "text": "embarrassing cheapo"
+      },
+      {
+        "token_id": 1,
+        "start_token": 86,
+        "end_token": 87,
+        "text": "ludicrous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 88,
+        "end_token": 89,
+        "text": "insulting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 77,
+        "end_token": 78,
+        "text": "sup-par"
+      },
+      {
+        "token_id": 1,
+        "start_token": 148,
+        "end_token": 149,
+        "text": "long-winded"
+      },
+      {
+        "token_id": 1,
+        "start_token": 151,
+        "end_token": 152,
+        "text": "dramatic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 185,
+        "end_token": 186,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 187,
+        "end_token": 188,
+        "text": "ugly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 201,
+        "end_token": 203,
+        "text": "most ridiculous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 341,
+        "end_token": 342,
+        "text": "lousy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 362,
+        "end_token": 363,
+        "text": "garbage"
+      },
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 3,
+        "text": "failure"
+      },
+      {
+        "token_id": 1,
+        "start_token": 74,
+        "end_token": 75,
+        "text": "wretched"
+      },
+      {
+        "token_id": 1,
+        "start_token": 111,
+        "end_token": 112,
+        "text": "freaking"
+      },
+      {
+        "token_id": 1,
+        "start_token": 256,
+        "end_token": 257,
+        "text": "ashamed"
+      }
+    ]
+  },
+  {
+    "tid": 179,
+    "negative_3353": [
+      {
+        "token_id": 1,
+        "start_token": 234,
+        "end_token": 237,
+        "text": "fell very short"
+      },
+      {
+        "token_id": 1,
+        "start_token": 247,
+        "end_token": 248,
+        "text": "bore"
+      },
+      {
+        "token_id": 1,
+        "start_token": 313,
+        "end_token": 316,
+        "text": "Don't watch"
+      }
+    ]
+  },
+  {
+    "tid": 181,
+    "negative_3292": [
+      {
+        "token_id": 1,
+        "start_token": 14,
+        "end_token": 15,
+        "text": "ponderous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 16,
+        "end_token": 17,
+        "text": "gaudy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 25,
+        "end_token": 26,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 47,
+        "end_token": 48,
+        "text": "mortified"
+      },
+      {
+        "token_id": 1,
+        "start_token": 244,
+        "end_token": 246,
+        "text": "stay away"
+      }
+    ]
+  },
+  {
+    "tid": 183,
+    "negative_1864": [
+      {
+        "token_id": 1,
+        "start_token": 24,
+        "end_token": 25,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 26,
+        "end_token": 27,
+        "text": "self-centred"
+      },
+      {
+        "token_id": 1,
+        "start_token": 44,
+        "end_token": 46,
+        "text": "self-indulgent mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 216,
+        "end_token": 217,
+        "text": "doubt"
+      }
+    ]
+  },
+  {
+    "tid": 185,
+    "negative_984": [
+      {
+        "token_id": 1,
+        "start_token": 96,
+        "end_token": 97,
+        "text": "crappy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 129,
+        "end_token": 131,
+        "text": "VERY bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 132,
+        "end_token": 133,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 135,
+        "end_token": 136,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 152,
+        "end_token": 154,
+        "text": "so cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 194,
+        "end_token": 195,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 201,
+        "end_token": 202,
+        "text": "worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 304,
+        "end_token": 305,
+        "text": "Heck"
+      },
+      {
+        "token_id": 1,
+        "start_token": 329,
+        "end_token": 330,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 331,
+        "end_token": 333,
+        "text": "pretty painful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 383,
+        "end_token": 384,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 385,
+        "end_token": 386,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 338,
+        "text": "unintentionally hilarious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 216,
+        "end_token": 217,
+        "text": "unorganized"
+      },
+      {
+        "token_id": 1,
+        "start_token": 232,
+        "end_token": 233,
+        "text": "horrid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 118,
+        "end_token": 119,
+        "text": "downhill."
+      }
+    ]
+  },
+  {
+    "tid": 187,
+    "negative_2009": [
+      {
+        "token_id": 1,
+        "start_token": 64,
+        "end_token": 65,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 66,
+        "end_token": 67,
+        "text": "dissatisfying"
+      },
+      {
+        "token_id": 1,
+        "start_token": 102,
+        "end_token": 103,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 113,
+        "end_token": 115,
+        "text": "absolutely horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 118,
+        "end_token": 120,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 212,
+        "end_token": 213,
+        "text": "degrades"
+      },
+      {
+        "token_id": 1,
+        "start_token": 217,
+        "end_token": 218,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 229,
+        "end_token": 230,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 224,
+        "end_token": 225,
+        "text": "sick"
+      },
+      {
+        "token_id": 1,
+        "start_token": 268,
+        "end_token": 269,
+        "text": "unsatisfying"
+      },
+      {
+        "token_id": 1,
+        "start_token": 270,
+        "end_token": 271,
+        "text": "bizarre"
+      },
+      {
+        "token_id": 1,
+        "start_token": 313,
+        "end_token": 316,
+        "text": "don't waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 303,
+        "end_token": 304,
+        "text": "worse."
+      }
+    ]
+  },
+  {
+    "tid": 189,
+    "negative_1834": [
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 18,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 457,
+        "end_token": 459,
+        "text": "very poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 412,
+        "end_token": 414,
+        "text": "absolutely worst"
+      }
+    ]
+  },
+  {
+    "tid": 191,
+    "negative_4491": [
+      {
+        "token_id": 1,
+        "start_token": 119,
+        "end_token": 120,
+        "text": "offensive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 77,
+        "end_token": 78,
+        "text": "surprised"
+      },
+      {
+        "token_id": 1,
+        "start_token": 123,
+        "end_token": 125,
+        "text": "typical stereotype"
+      },
+      {
+        "token_id": 1,
+        "start_token": 165,
+        "end_token": 168,
+        "text": "ticked me off"
+      },
+      {
+        "token_id": 1,
+        "start_token": 149,
+        "end_token": 150,
+        "text": "amazing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 279,
+        "end_token": 283,
+        "text": "don't get it"
+      }
+    ]
+  },
+  {
+    "tid": 193,
+    "negative_2045": [
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 36,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 305,
+        "end_token": 306,
+        "text": "pathetic"
+      }
+    ]
+  },
+  {
+    "tid": 195,
+    "negative_3071": [
+      {
+        "token_id": 1,
+        "start_token": 152,
+        "end_token": 153,
+        "text": "vacuous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 301,
+        "end_token": 302,
+        "text": "rubbish"
+      },
+      {
+        "token_id": 1,
+        "start_token": 68,
+        "end_token": 69,
+        "text": "heartbreak"
+      },
+      {
+        "token_id": 1,
+        "start_token": 291,
+        "end_token": 292,
+        "text": "robbed"
+      }
+    ]
+  },
+  {
+    "tid": 197,
+    "negative_3488": [
+      {
+        "token_id": 1,
+        "start_token": 42,
+        "end_token": 43,
+        "text": "weird"
+      },
+      {
+        "token_id": 1,
+        "start_token": 112,
+        "end_token": 114,
+        "text": "so disturbed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 115,
+        "end_token": 116,
+        "text": "bored"
+      },
+      {
+        "token_id": 1,
+        "start_token": 131,
+        "end_token": 132,
+        "text": "sad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 133,
+        "end_token": 134,
+        "text": "scary"
+      },
+      {
+        "token_id": 1,
+        "start_token": 155,
+        "end_token": 156,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 209,
+        "end_token": 210,
+        "text": "pointless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 256,
+        "end_token": 257,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 250,
+        "end_token": 252,
+        "text": "so boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 297,
+        "text": "disturbing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 318,
+        "end_token": 319,
+        "text": "disturbing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 324,
+        "end_token": 325,
+        "text": "eck"
+      }
+    ]
+  },
+  {
+    "tid": 199,
+    "negative_2959": [
+      {
+        "token_id": 1,
+        "start_token": 68,
+        "end_token": 70,
+        "text": "incredibly awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 125,
+        "end_token": 126,
+        "text": "cheap-ass"
+      },
+      {
+        "token_id": 1,
+        "start_token": 157,
+        "end_token": 158,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 164,
+        "end_token": 165,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 166,
+        "end_token": 167,
+        "text": "lame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 170,
+        "end_token": 171,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 183,
+        "end_token": 184,
+        "text": "trashy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 213,
+        "end_token": 214,
+        "text": "tiresome"
+      },
+      {
+        "token_id": 1,
+        "start_token": 216,
+        "end_token": 217,
+        "text": "flat"
+      },
+      {
+        "token_id": 1,
+        "start_token": 218,
+        "end_token": 219,
+        "text": "annoying"
+      },
+      {
+        "token_id": 1,
+        "start_token": 320,
+        "end_token": 321,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 323,
+        "end_token": 324,
+        "text": "mess"
+      }
+    ]
+  },
+  {
+    "tid": 201,
+    "negative_4837": [
+      {
+        "token_id": 1,
+        "start_token": 147,
+        "end_token": 149,
+        "text": "TRUE bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 84,
+        "end_token": 86,
+        "text": "No real"
+      },
+      {
+        "token_id": 1,
+        "start_token": 100,
+        "end_token": 102,
+        "text": "never heard"
+      },
+      {
+        "token_id": 1,
+        "start_token": 127,
+        "end_token": 129,
+        "text": "so awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 163,
+        "end_token": 164,
+        "text": "dumb"
+      },
+      {
+        "token_id": 1,
+        "start_token": 224,
+        "end_token": 226,
+        "text": "pretty bland"
+      },
+      {
+        "token_id": 1,
+        "start_token": 261,
+        "end_token": 262,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 288,
+        "end_token": 290,
+        "text": "quite boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 294,
+        "end_token": 295,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 349,
+        "end_token": 351,
+        "text": "total joke"
+      },
+      {
+        "token_id": 1,
+        "start_token": 353,
+        "end_token": 356,
+        "text": "hard to laugh"
+      },
+      {
+        "token_id": 1,
+        "start_token": 359,
+        "end_token": 361,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 384,
+        "end_token": 385,
+        "text": "shock"
+      },
+      {
+        "token_id": 1,
+        "start_token": 392,
+        "end_token": 393,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 401,
+        "end_token": 402,
+        "text": "haunt"
+      },
+      {
+        "token_id": 1,
+        "start_token": 482,
+        "end_token": 484,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 487,
+        "end_token": 490,
+        "text": "lacks campy qualities"
+      },
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 3,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 77,
+        "end_token": 78,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 244,
+        "end_token": 246,
+        "text": "quickly boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 394,
+        "end_token": 396,
+        "text": "plot twist"
+      },
+      {
+        "token_id": 1,
+        "start_token": 475,
+        "end_token": 476,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 415,
+        "end_token": 416,
+        "text": "crap."
+      }
+    ]
+  },
+  {
+    "tid": 203,
+    "negative_2116": [
+      {
+        "token_id": 1,
+        "start_token": 103,
+        "end_token": 104,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 117,
+        "end_token": 118,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 156,
+        "end_token": 158,
+        "text": "extremely brutal"
+      },
+      {
+        "token_id": 1,
+        "start_token": 203,
+        "end_token": 204,
+        "text": "lost"
+      },
+      {
+        "token_id": 1,
+        "start_token": 292,
+        "end_token": 293,
+        "text": "inconsistent"
+      },
+      {
+        "token_id": 1,
+        "start_token": 298,
+        "end_token": 299,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 303,
+        "end_token": 304,
+        "text": "stiff"
+      },
+      {
+        "token_id": 1,
+        "start_token": 310,
+        "end_token": 311,
+        "text": "irreverence"
+      },
+      {
+        "token_id": 1,
+        "start_token": 353,
+        "end_token": 354,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 434,
+        "end_token": 435,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 463,
+        "end_token": 464,
+        "text": "creepy"
+      }
+    ]
+  },
+  {
+    "tid": 205,
+    "negative_5392": [
+      {
+        "token_id": 1,
+        "start_token": 1,
+        "end_token": 2,
+        "text": "sadistic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 83,
+        "end_token": 84,
+        "text": "sleaze-factor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 102,
+        "end_token": 103,
+        "text": "rough"
+      },
+      {
+        "token_id": 1,
+        "start_token": 162,
+        "end_token": 164,
+        "text": "very tame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 191,
+        "text": "brutal"
+      },
+      {
+        "token_id": 1,
+        "start_token": 187,
+        "end_token": 188,
+        "text": "infamous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 277,
+        "end_token": 278,
+        "text": "exploitation"
+      },
+      {
+        "token_id": 1,
+        "start_token": 294,
+        "end_token": 295,
+        "text": "blood"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 297,
+        "text": "controversy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 3,
+        "end_token": 4,
+        "text": "ultra-sleazy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 63,
+        "end_token": 66,
+        "text": "absolutely nothing new"
+      }
+    ]
+  },
+  {
+    "tid": 207,
+    "negative_5834": [
+      {
+        "token_id": 1,
+        "start_token": 43,
+        "end_token": 44,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 45,
+        "end_token": 46,
+        "text": "idiotic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 131,
+        "end_token": 132,
+        "text": "Goofed-up"
+      },
+      {
+        "token_id": 1,
+        "start_token": 127,
+        "end_token": 128,
+        "text": "Steryotypes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 138,
+        "end_token": 139,
+        "text": "silly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 179,
+        "end_token": 181,
+        "text": "No real"
+      },
+      {
+        "token_id": 1,
+        "start_token": 232,
+        "end_token": 233,
+        "text": "insulted"
+      },
+      {
+        "token_id": 1,
+        "start_token": 235,
+        "end_token": 236,
+        "text": "insults"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "reoccuring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 291,
+        "end_token": 292,
+        "text": "suck"
+      },
+      {
+        "token_id": 1,
+        "start_token": 308,
+        "end_token": 309,
+        "text": "unoriginal"
+      },
+      {
+        "token_id": 1,
+        "start_token": 361,
+        "end_token": 362,
+        "text": "overuse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 102,
+        "end_token": 103,
+        "text": "awful."
+      }
+    ]
+  },
+  {
+    "tid": 211,
+    "negative_627": [
+      {
+        "token_id": 1,
+        "start_token": 281,
+        "end_token": 282,
+        "text": "re-tracked"
+      },
+      {
+        "token_id": 1,
+        "start_token": 301,
+        "end_token": 302,
+        "text": "superfluous"
+      }
+    ]
+  },
+  {
+    "tid": 213,
+    "negative_3641": [
+      {
+        "token_id": 1,
+        "start_token": 9,
+        "end_token": 11,
+        "text": "unbelievably bad"
+      }
+    ]
+  },
+  {
+    "tid": 215,
+    "negative_1585": [
+      {
+        "token_id": 1,
+        "start_token": 37,
+        "end_token": 38,
+        "text": "Bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 208,
+        "end_token": 209,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 210,
+        "end_token": 212,
+        "text": "even worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 278,
+        "end_token": 281,
+        "text": "don't waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 93,
+        "end_token": 94,
+        "text": "sucked."
+      }
+    ]
+  },
+  {
+    "tid": 217,
+    "negative_3532": [
+      {
+        "token_id": 1,
+        "start_token": 257,
+        "end_token": 259,
+        "text": "real pity"
+      },
+      {
+        "token_id": 1,
+        "start_token": 269,
+        "end_token": 271,
+        "text": "real sorry"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 297,
+        "text": "misfortune"
+      },
+      {
+        "token_id": 1,
+        "start_token": 38,
+        "end_token": 40,
+        "text": "damn awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 86,
+        "end_token": 87,
+        "text": "cringing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 150,
+        "end_token": 151,
+        "text": "screwball"
+      }
+    ]
+  },
+  {
+    "tid": 219,
+    "negative_1226": [
+      {
+        "token_id": 1,
+        "start_token": 316,
+        "end_token": 317,
+        "text": "Horror"
+      },
+      {
+        "token_id": 1,
+        "start_token": 301,
+        "end_token": 302,
+        "text": "unmotivated"
+      },
+      {
+        "token_id": 1,
+        "start_token": 304,
+        "end_token": 305,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 298,
+        "end_token": 299,
+        "text": "bombard"
+      },
+      {
+        "token_id": 1,
+        "start_token": 308,
+        "end_token": 310,
+        "text": "unlikely event"
+      },
+      {
+        "token_id": 1,
+        "start_token": 311,
+        "end_token": 313,
+        "text": "unlikely event"
+      },
+      {
+        "token_id": 1,
+        "start_token": 52,
+        "end_token": 53,
+        "text": "HORROR"
+      }
+    ]
+  },
+  {
+    "tid": 221,
+    "negative_2685": [
+      {
+        "token_id": 1,
+        "start_token": 4,
+        "end_token": 5,
+        "text": "nightmare"
+      },
+      {
+        "token_id": 1,
+        "start_token": 16,
+        "end_token": 17,
+        "text": "nightmare"
+      },
+      {
+        "token_id": 1,
+        "start_token": 43,
+        "end_token": 44,
+        "text": "pain"
+      },
+      {
+        "token_id": 1,
+        "start_token": 48,
+        "end_token": 50,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 75,
+        "end_token": 77,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 106,
+        "end_token": 108,
+        "text": "got nothing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 133,
+        "end_token": 134,
+        "text": "ridiculous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 172,
+        "end_token": 174,
+        "text": "even worse"
+      },
+      {
+        "token_id": 1,
+        "start_token": 169,
+        "end_token": 170,
+        "text": "damage"
+      },
+      {
+        "token_id": 1,
+        "start_token": 179,
+        "end_token": 180,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 182,
+        "end_token": 184,
+        "text": "plain zero"
+      },
+      {
+        "token_id": 1,
+        "start_token": 197,
+        "end_token": 199,
+        "text": "no suspense"
+      },
+      {
+        "token_id": 1,
+        "start_token": 208,
+        "end_token": 210,
+        "text": "complete failure"
+      },
+      {
+        "token_id": 1,
+        "start_token": 288,
+        "end_token": 290,
+        "text": "Too bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 114,
+        "end_token": 115,
+        "text": "hilarious"
+      }
+    ]
+  },
+  {
+    "tid": 225,
+    "negative_1737": [
+      {
+        "token_id": 1,
+        "start_token": 0,
+        "end_token": 1,
+        "text": "Incredible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 6,
+        "end_token": 7,
+        "text": "dumber"
+      },
+      {
+        "token_id": 1,
+        "start_token": 15,
+        "end_token": 16,
+        "text": "stupidity"
+      },
+      {
+        "token_id": 1,
+        "start_token": 65,
+        "end_token": 66,
+        "text": "lowered"
+      },
+      {
+        "token_id": 1,
+        "start_token": 53,
+        "end_token": 54,
+        "text": "cretinous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 103,
+        "end_token": 105,
+        "text": "utterly moronic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 20,
+        "end_token": 21,
+        "text": "shame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 40,
+        "text": "mediocre"
+      },
+      {
+        "token_id": 1,
+        "start_token": 46,
+        "end_token": 47,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 97,
+        "end_token": 99,
+        "text": "surely kill"
+      },
+      {
+        "token_id": 1,
+        "start_token": 205,
+        "end_token": 206,
+        "text": "garbage"
+      },
+      {
+        "token_id": 1,
+        "start_token": 267,
+        "end_token": 269,
+        "text": "so far-fetched"
+      },
+      {
+        "token_id": 1,
+        "start_token": 283,
+        "end_token": 284,
+        "text": "illogicalities"
+      },
+      {
+        "token_id": 1,
+        "start_token": 345,
+        "end_token": 346,
+        "text": "idiocy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 366,
+        "end_token": 367,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 382,
+        "end_token": 385,
+        "text": "loses ALL seriousness"
+      }
+    ]
+  },
+  {
+    "tid": 227,
+    "negative_5630": [
+      {
+        "token_id": 1,
+        "start_token": 7,
+        "end_token": 9,
+        "text": "most awfully"
+      },
+      {
+        "token_id": 1,
+        "start_token": 136,
+        "end_token": 140,
+        "text": "don't quite match"
+      },
+      {
+        "token_id": 1,
+        "start_token": 123,
+        "end_token": 124,
+        "text": "weird"
+      }
+    ]
+  },
+  {
+    "tid": 229,
+    "negative_1017": [
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 52,
+        "text": "not worth seeing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 55,
+        "end_token": 57,
+        "text": "very boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 58,
+        "end_token": 59,
+        "text": "uninteresting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 116,
+        "end_token": 117,
+        "text": "weird"
+      },
+      {
+        "token_id": 1,
+        "start_token": 238,
+        "end_token": 239,
+        "text": "Skip"
+      },
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 39,
+        "text": "really pass on."
+      }
+    ]
+  },
+  {
+    "tid": 231,
+    "negative_3533": [
+      {
+        "token_id": 1,
+        "start_token": 120,
+        "end_token": 122,
+        "text": "tediously slowly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 238,
+        "end_token": 239,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 116,
+        "end_token": 118,
+        "text": "blind alley"
+      },
+      {
+        "token_id": 1,
+        "start_token": 148,
+        "end_token": 150,
+        "text": "too superficially"
+      },
+      {
+        "token_id": 1,
+        "start_token": 151,
+        "end_token": 153,
+        "text": "too repetitively"
+      }
+    ]
+  },
+  {
+    "tid": 233,
+    "negative_854": [
+      {
+        "token_id": 1,
+        "start_token": 1,
+        "end_token": 5,
+        "text": "wasn't much thought"
+      },
+      {
+        "token_id": 1,
+        "start_token": 262,
+        "end_token": 265,
+        "text": "lack of thought"
+      },
+      {
+        "token_id": 1,
+        "start_token": 178,
+        "end_token": 179,
+        "text": "Strange."
+      }
+    ]
+  },
+  {
+    "tid": 235,
+    "negative_1588": [
+      {
+        "token_id": 1,
+        "start_token": 120,
+        "end_token": 122,
+        "text": "very flat"
+      },
+      {
+        "token_id": 1,
+        "start_token": 123,
+        "end_token": 124,
+        "text": "dry"
+      },
+      {
+        "token_id": 1,
+        "start_token": 128,
+        "end_token": 129,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 143,
+        "end_token": 144,
+        "text": "insults"
+      },
+      {
+        "token_id": 1,
+        "start_token": 153,
+        "end_token": 155,
+        "text": "very confused"
+      },
+      {
+        "token_id": 1,
+        "start_token": 156,
+        "end_token": 157,
+        "text": "clouded"
+      },
+      {
+        "token_id": 1,
+        "start_token": 173,
+        "end_token": 175,
+        "text": "very poorly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 181,
+        "end_token": 182,
+        "text": "holes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 322,
+        "end_token": 323,
+        "text": "tragic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 349,
+        "end_token": 351,
+        "text": "so poorly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 340,
+        "end_token": 341,
+        "text": "bland"
+      },
+      {
+        "token_id": 1,
+        "start_token": 381,
+        "end_token": 382,
+        "text": "insult"
+      },
+      {
+        "token_id": 1,
+        "start_token": 396,
+        "end_token": 397,
+        "text": "fails"
+      },
+      {
+        "token_id": 1,
+        "start_token": 400,
+        "end_token": 401,
+        "text": "miserably"
+      },
+      {
+        "token_id": 1,
+        "start_token": 309,
+        "end_token": 310,
+        "text": "idiotic"
+      }
+    ]
+  },
+  {
+    "tid": 237,
+    "negative_4895": [
+      {
+        "token_id": 1,
+        "start_token": 6,
+        "end_token": 7,
+        "text": "unfortunate"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "trash"
+      }
+    ]
+  },
+  {
+    "tid": 239,
+    "negative_944": [
+      {
+        "token_id": 1,
+        "start_token": 41,
+        "end_token": 44,
+        "text": "not too fond"
+      }
+    ]
+  },
+  {
+    "tid": 241,
+    "negative_3019": [
+      {
+        "token_id": 1,
+        "start_token": 110,
+        "end_token": 111,
+        "text": "trouble"
+      },
+      {
+        "token_id": 1,
+        "start_token": 211,
+        "end_token": 212,
+        "text": "mind-numbing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 293,
+        "end_token": 295,
+        "text": "hypnotically boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 340,
+        "end_token": 341,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 343,
+        "end_token": 344,
+        "text": "non-existent"
+      },
+      {
+        "token_id": 1,
+        "start_token": 346,
+        "end_token": 347,
+        "text": "scratchy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 349,
+        "end_token": 350,
+        "text": "repetitive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 357,
+        "end_token": 361,
+        "text": "Don't waste time"
+      },
+      {
+        "token_id": 1,
+        "start_token": 354,
+        "end_token": 356,
+        "text": "no fans"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 338,
+        "text": "firmly dated"
+      }
+    ]
+  },
+  {
+    "tid": 243,
+    "negative_3926": [
+      {
+        "token_id": 1,
+        "start_token": 10,
+        "end_token": 11,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 80,
+        "end_token": 81,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 380,
+        "end_token": 381,
+        "text": "crap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 418,
+        "end_token": 419,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 74,
+        "end_token": 77,
+        "text": "so many mistakes"
+      }
+    ]
+  },
+  {
+    "tid": 245,
+    "negative_3428": [
+      {
+        "token_id": 1,
+        "start_token": 9,
+        "end_token": 12,
+        "text": "lacks the quality"
+      },
+      {
+        "token_id": 1,
+        "start_token": 80,
+        "end_token": 81,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 170,
+        "end_token": 171,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 258,
+        "end_token": 260,
+        "text": "let down"
+      }
+    ]
+  },
+  {
+    "tid": 247,
+    "negative_4596": [
+      {
+        "token_id": 1,
+        "start_token": 3,
+        "end_token": 4,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 47,
+        "end_token": 48,
+        "text": "shame"
+      },
+      {
+        "token_id": 1,
+        "start_token": 41,
+        "end_token": 42,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 172,
+        "end_token": 174,
+        "text": "painfully sad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 179,
+        "end_token": 180,
+        "text": "bad"
+      }
+    ]
+  },
+  {
+    "tid": 251,
+    "negative_2872": [
+      {
+        "token_id": 1,
+        "start_token": 20,
+        "end_token": 22,
+        "text": "steaming poo"
+      },
+      {
+        "token_id": 1,
+        "start_token": 85,
+        "end_token": 87,
+        "text": "REALLY bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 103,
+        "end_token": 104,
+        "text": "inaccuracies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 157,
+        "end_token": 158,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 242,
+        "end_token": 244,
+        "text": "glaring inaccuracies"
+      },
+      {
+        "token_id": 1,
+        "start_token": 254,
+        "end_token": 255,
+        "text": "sucks"
+      },
+      {
+        "token_id": 1,
+        "start_token": 269,
+        "end_token": 270,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 298,
+        "text": "biggest bomb"
+      },
+      {
+        "token_id": 1,
+        "start_token": 275,
+        "end_token": 276,
+        "text": "ironic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 258,
+        "end_token": 259,
+        "text": "shallow"
+      },
+      {
+        "token_id": 1,
+        "start_token": 55,
+        "end_token": 56,
+        "text": "'Worst"
+      }
+    ]
+  },
+  {
+    "tid": 253,
+    "negative_2514": [
+      {
+        "token_id": 1,
+        "start_token": 71,
+        "end_token": 72,
+        "text": "mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 323,
+        "end_token": 324,
+        "text": "disappointment"
+      }
+    ]
+  },
+  {
+    "tid": 255,
+    "negative_4095": [
+      {
+        "token_id": 1,
+        "start_token": 7,
+        "end_token": 8,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 30,
+        "end_token": 31,
+        "text": "no-effort"
+      },
+      {
+        "token_id": 1,
+        "start_token": 48,
+        "end_token": 49,
+        "text": "lifeless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 50,
+        "end_token": 51,
+        "text": "listless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 72,
+        "end_token": 73,
+        "text": "lifeless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 91,
+        "end_token": 92,
+        "text": "insult"
+      },
+      {
+        "token_id": 1,
+        "start_token": 113,
+        "end_token": 114,
+        "text": "senseless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 150,
+        "end_token": 151,
+        "text": "Bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 155,
+        "end_token": 156,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 160,
+        "end_token": 161,
+        "text": "Bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 196,
+        "end_token": 198,
+        "text": "no life"
+      },
+      {
+        "token_id": 1,
+        "start_token": 203,
+        "end_token": 206,
+        "text": "don't care"
+      },
+      {
+        "token_id": 1,
+        "start_token": 222,
+        "end_token": 223,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 235,
+        "end_token": 237,
+        "text": "very bottom"
+      },
+      {
+        "token_id": 1,
+        "start_token": 238,
+        "end_token": 241,
+        "text": "Don't waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 291,
+        "end_token": 294,
+        "text": "What a suck-fest"
+      },
+      {
+        "token_id": 1,
+        "start_token": 287,
+        "end_token": 290,
+        "text": "wasting my time"
+      }
+    ]
+  },
+  {
+    "tid": 257,
+    "negative_4243": [
+      {
+        "token_id": 1,
+        "start_token": 88,
+        "end_token": 89,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 115,
+        "end_token": 116,
+        "text": "joke"
+      },
+      {
+        "token_id": 1,
+        "start_token": 193,
+        "end_token": 194,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 276,
+        "end_token": 278,
+        "text": "quite boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 279,
+        "end_token": 282,
+        "text": "Nothing really exciting"
+      }
+    ]
+  },
+  {
+    "tid": 259,
+    "negative_5384": [
+      {
+        "token_id": 1,
+        "start_token": 1,
+        "end_token": 2,
+        "text": "not-so-great"
+      },
+      {
+        "token_id": 1,
+        "start_token": 308,
+        "end_token": 311,
+        "text": "lacks credible characters"
+      },
+      {
+        "token_id": 1,
+        "start_token": 336,
+        "end_token": 338,
+        "text": "visually ugly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 356,
+        "end_token": 358,
+        "text": "too heavy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 40,
+        "end_token": 42,
+        "text": "never will"
+      },
+      {
+        "token_id": 1,
+        "start_token": 76,
+        "end_token": 78,
+        "text": "neither funny"
+      },
+      {
+        "token_id": 1,
+        "start_token": 211,
+        "end_token": 212,
+        "text": "wrong"
+      },
+      {
+        "token_id": 1,
+        "start_token": 217,
+        "end_token": 218,
+        "text": "dumb"
+      }
+    ]
+  },
+  {
+    "tid": 261,
+    "negative_3615": [
+      {
+        "token_id": 1,
+        "start_token": 16,
+        "end_token": 17,
+        "text": "mess"
+      },
+      {
+        "token_id": 1,
+        "start_token": 68,
+        "end_token": 69,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 93,
+        "end_token": 94,
+        "text": "ruins"
+      },
+      {
+        "token_id": 1,
+        "start_token": 101,
+        "end_token": 102,
+        "text": "lacking"
+      },
+      {
+        "token_id": 1,
+        "start_token": 132,
+        "end_token": 133,
+        "text": "insane"
+      },
+      {
+        "token_id": 1,
+        "start_token": 234,
+        "end_token": 236,
+        "text": "little performance"
+      },
+      {
+        "token_id": 1,
+        "start_token": 265,
+        "end_token": 266,
+        "text": "stupid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 269,
+        "end_token": 270,
+        "text": "terribly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 272,
+        "end_token": 273,
+        "text": "weird"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 297,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 329,
+        "end_token": 330,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 37,
+        "text": "very disappointing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 137,
+        "end_token": 138,
+        "text": "poorly"
+      }
+    ]
+  },
+  {
+    "tid": 263,
+    "negative_841": [
+      {
+        "token_id": 1,
+        "start_token": 143,
+        "end_token": 144,
+        "text": "destroyed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 299,
+        "text": "over the top"
+      },
+      {
+        "token_id": 1,
+        "start_token": 318,
+        "end_token": 320,
+        "text": "pretty disturbing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 118,
+        "end_token": 119,
+        "text": "childish"
+      },
+      {
+        "token_id": 1,
+        "start_token": 120,
+        "end_token": 122,
+        "text": "not enjoyable"
+      }
+    ]
+  },
+  {
+    "tid": 265,
+    "negative_983": [
+      {
+        "token_id": 1,
+        "start_token": 110,
+        "end_token": 111,
+        "text": "disgusting"
+      },
+      {
+        "token_id": 1,
+        "start_token": 98,
+        "end_token": 99,
+        "text": "perversion"
+      },
+      {
+        "token_id": 1,
+        "start_token": 155,
+        "end_token": 156,
+        "text": "dismal"
+      },
+      {
+        "token_id": 1,
+        "start_token": 158,
+        "end_token": 159,
+        "text": "dreadful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 161,
+        "end_token": 162,
+        "text": "elusive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 107,
+        "end_token": 108,
+        "text": "tediously"
+      },
+      {
+        "token_id": 1,
+        "start_token": 130,
+        "end_token": 132,
+        "text": "'so bad"
+      }
+    ]
+  },
+  {
+    "tid": 269,
+    "negative_3210": [
+      {
+        "token_id": 1,
+        "start_token": 236,
+        "end_token": 239,
+        "text": "pretty second rate"
+      },
+      {
+        "token_id": 1,
+        "start_token": 28,
+        "end_token": 30,
+        "text": "rather weird"
+      }
+    ]
+  },
+  {
+    "tid": 271,
+    "negative_5951": [
+      {
+        "token_id": 1,
+        "start_token": 37,
+        "end_token": 38,
+        "text": "blah"
+      },
+      {
+        "token_id": 1,
+        "start_token": 158,
+        "end_token": 159,
+        "text": "Creepy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 267,
+        "end_token": 270,
+        "text": "DON'T BOTHER"
+      },
+      {
+        "token_id": 1,
+        "start_token": 187,
+        "end_token": 189,
+        "text": "gets lost"
+      },
+      {
+        "token_id": 1,
+        "start_token": 74,
+        "end_token": 75,
+        "text": "creepy"
+      }
+    ]
+  },
+  {
+    "tid": 273,
+    "negative_5723": [
+      {
+        "token_id": 1,
+        "start_token": 19,
+        "end_token": 20,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 32,
+        "end_token": 34,
+        "text": "no effects"
+      },
+      {
+        "token_id": 1,
+        "start_token": 53,
+        "end_token": 54,
+        "text": "sick"
+      },
+      {
+        "token_id": 1,
+        "start_token": 170,
+        "end_token": 171,
+        "text": "spoof"
+      },
+      {
+        "token_id": 1,
+        "start_token": 2,
+        "end_token": 3,
+        "text": "rubbish"
+      },
+      {
+        "token_id": 1,
+        "start_token": 24,
+        "end_token": 25,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 131,
+        "end_token": 132,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 136,
+        "end_token": 138,
+        "text": "bad enough"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 191,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 194,
+        "end_token": 195,
+        "text": "tacky"
+      },
+      {
+        "token_id": 1,
+        "start_token": 255,
+        "end_token": 256,
+        "text": "embarrassment"
+      },
+      {
+        "token_id": 1,
+        "start_token": 327,
+        "end_token": 328,
+        "text": "painful"
+      }
+    ]
+  },
+  {
+    "tid": 275,
+    "negative_2669": [
+      {
+        "token_id": 1,
+        "start_token": 7,
+        "end_token": 8,
+        "text": "insult"
+      },
+      {
+        "token_id": 1,
+        "start_token": 204,
+        "end_token": 205,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 239,
+        "end_token": 240,
+        "text": "skip"
+      },
+      {
+        "token_id": 1,
+        "start_token": 262,
+        "end_token": 265,
+        "text": "do not watch"
+      },
+      {
+        "token_id": 1,
+        "start_token": 285,
+        "end_token": 286,
+        "text": "horrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 66,
+        "end_token": 67,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 68,
+        "end_token": 70,
+        "text": "lacked originality"
+      },
+      {
+        "token_id": 1,
+        "start_token": 50,
+        "end_token": 51,
+        "text": "missed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 109,
+        "end_token": 111,
+        "text": "very confusing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 112,
+        "end_token": 113,
+        "text": "complex"
+      },
+      {
+        "token_id": 1,
+        "start_token": 153,
+        "end_token": 155,
+        "text": "left out"
+      },
+      {
+        "token_id": 1,
+        "start_token": 168,
+        "end_token": 169,
+        "text": "affected"
+      },
+      {
+        "token_id": 1,
+        "start_token": 190,
+        "end_token": 193,
+        "text": "did not fit"
+      },
+      {
+        "token_id": 1,
+        "start_token": 250,
+        "end_token": 251,
+        "text": "disarray"
+      },
+      {
+        "token_id": 1,
+        "start_token": 245,
+        "end_token": 246,
+        "text": "dreadful"
+      }
+    ]
+  },
+  {
+    "tid": 277,
+    "negative_2986": [
+      {
+        "token_id": 1,
+        "start_token": 54,
+        "end_token": 55,
+        "text": "dismayed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 9,
+        "end_token": 10,
+        "text": "aghast"
+      },
+      {
+        "token_id": 1,
+        "start_token": 201,
+        "end_token": 202,
+        "text": "mediocrity"
+      },
+      {
+        "token_id": 1,
+        "start_token": 161,
+        "end_token": 162,
+        "text": "display."
+      }
+    ]
+  },
+  {
+    "tid": 279,
+    "negative_499": [
+      {
+        "token_id": 1,
+        "start_token": 27,
+        "end_token": 28,
+        "text": "annoyed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 35,
+        "end_token": 36,
+        "text": "monster"
+      },
+      {
+        "token_id": 1,
+        "start_token": 185,
+        "end_token": 186,
+        "text": "cliché"
+      },
+      {
+        "token_id": 1,
+        "start_token": 213,
+        "end_token": 214,
+        "text": "mock"
+      },
+      {
+        "token_id": 1,
+        "start_token": 238,
+        "end_token": 239,
+        "text": "avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 268,
+        "end_token": 269,
+        "text": "Avoid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 202,
+        "end_token": 204,
+        "text": "very narrow"
+      },
+      {
+        "token_id": 1,
+        "start_token": 83,
+        "end_token": 84,
+        "text": "problems"
+      }
+    ]
+  },
+  {
+    "tid": 281,
+    "negative_435": [
+      {
+        "token_id": 1,
+        "start_token": 28,
+        "end_token": 29,
+        "text": "disappointing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 63,
+        "end_token": 65,
+        "text": "soooo rushed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 70,
+        "end_token": 71,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 130,
+        "end_token": 132,
+        "text": "incredibly pathetic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 162,
+        "end_token": 163,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 304,
+        "end_token": 306,
+        "text": "incredibly disappointing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 338,
+        "end_token": 339,
+        "text": "amateur"
+      },
+      {
+        "token_id": 1,
+        "start_token": 404,
+        "end_token": 405,
+        "text": "disappointment"
+      },
+      {
+        "token_id": 1,
+        "start_token": 81,
+        "end_token": 82,
+        "text": "failed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 83,
+        "end_token": 84,
+        "text": "Miserably"
+      },
+      {
+        "token_id": 1,
+        "start_token": 147,
+        "end_token": 149,
+        "text": "so negative"
+      },
+      {
+        "token_id": 1,
+        "start_token": 294,
+        "end_token": 295,
+        "text": "unfortunately"
+      }
+    ]
+  },
+  {
+    "tid": 283,
+    "negative_4886": [
+      {
+        "token_id": 1,
+        "start_token": 99,
+        "end_token": 100,
+        "text": "weird"
+      },
+      {
+        "token_id": 1,
+        "start_token": 117,
+        "end_token": 119,
+        "text": "zero sense"
+      },
+      {
+        "token_id": 1,
+        "start_token": 210,
+        "end_token": 212,
+        "text": "so dated"
+      },
+      {
+        "token_id": 1,
+        "start_token": 195,
+        "end_token": 196,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 451,
+        "end_token": 452,
+        "text": "Ambiguity"
+      }
+    ]
+  },
+  {
+    "tid": 287,
+    "negative_2448": [
+      {
+        "token_id": 1,
+        "start_token": 212,
+        "end_token": 213,
+        "text": "dire"
+      },
+      {
+        "token_id": 1,
+        "start_token": 214,
+        "end_token": 215,
+        "text": "awful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 216,
+        "end_token": 217,
+        "text": "unbearable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 218,
+        "end_token": 219,
+        "text": "intolerable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 220,
+        "end_token": 221,
+        "text": "xenophobic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 314,
+        "end_token": 315,
+        "text": "flimsy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 319,
+        "end_token": 320,
+        "text": "unbearable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 347,
+        "end_token": 348,
+        "text": "punished"
+      },
+      {
+        "token_id": 1,
+        "start_token": 342,
+        "end_token": 343,
+        "text": "cinematic"
+      }
+    ]
+  },
+  {
+    "tid": 289,
+    "negative_4647": [
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 18,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 54,
+        "end_token": 55,
+        "text": "cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 73,
+        "end_token": 75,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 85,
+        "end_token": 86,
+        "text": "terrible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 311,
+        "end_token": 312,
+        "text": "confusing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 359,
+        "end_token": 361,
+        "text": "cheap cheesy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 78,
+        "end_token": 81,
+        "text": "not even funny"
+      },
+      {
+        "token_id": 1,
+        "start_token": 196,
+        "end_token": 197,
+        "text": "ludicrous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 198,
+        "end_token": 200,
+        "text": "completely pointless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 128,
+        "end_token": 130,
+        "text": "most ridiculous"
+      }
+    ]
+  },
+  {
+    "tid": 291,
+    "negative_1960": [
+      {
+        "token_id": 1,
+        "start_token": 134,
+        "end_token": 135,
+        "text": "laughable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 150,
+        "end_token": 152,
+        "text": "many problems"
+      },
+      {
+        "token_id": 1,
+        "start_token": 162,
+        "end_token": 164,
+        "text": "no use"
+      },
+      {
+        "token_id": 1,
+        "start_token": 193,
+        "end_token": 195,
+        "text": "not agree"
+      },
+      {
+        "token_id": 1,
+        "start_token": 224,
+        "end_token": 225,
+        "text": "incapable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 237,
+        "end_token": 238,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 240,
+        "end_token": 241,
+        "text": "unbalanced"
+      },
+      {
+        "token_id": 1,
+        "start_token": 247,
+        "end_token": 248,
+        "text": "fails"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "holes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 296,
+        "end_token": 298,
+        "text": "not worth"
+      },
+      {
+        "token_id": 1,
+        "start_token": 309,
+        "end_token": 310,
+        "text": "warned"
+      },
+      {
+        "token_id": 1,
+        "start_token": 328,
+        "end_token": 331,
+        "text": "Do not rely"
+      }
+    ]
+  },
+  {
+    "tid": 293,
+    "negative_2599": [
+      {
+        "token_id": 1,
+        "start_token": 62,
+        "end_token": 63,
+        "text": "against"
+      },
+      {
+        "token_id": 1,
+        "start_token": 222,
+        "end_token": 223,
+        "text": "shameful"
+      }
+    ]
+  },
+  {
+    "tid": 295,
+    "negative_4969": [
+      {
+        "token_id": 1,
+        "start_token": 3,
+        "end_token": 4,
+        "text": "joke"
+      },
+      {
+        "token_id": 1,
+        "start_token": 70,
+        "end_token": 71,
+        "text": "single-minded"
+      },
+      {
+        "token_id": 1,
+        "start_token": 72,
+        "end_token": 73,
+        "text": "dull"
+      },
+      {
+        "token_id": 1,
+        "start_token": 123,
+        "end_token": 124,
+        "text": "Worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 126,
+        "end_token": 127,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 203,
+        "end_token": 204,
+        "text": "jaw-droppingly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 218,
+        "end_token": 219,
+        "text": "nauseating"
+      },
+      {
+        "token_id": 1,
+        "start_token": 62,
+        "end_token": 64,
+        "text": "horribly wrong"
+      },
+      {
+        "token_id": 1,
+        "start_token": 100,
+        "end_token": 101,
+        "text": "Clichéd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 298,
+        "end_token": 299,
+        "text": "trample"
+      },
+      {
+        "token_id": 1,
+        "start_token": 279,
+        "end_token": 281,
+        "text": "plain bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 253,
+        "end_token": 254,
+        "text": "cinematic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 243,
+        "end_token": 244,
+        "text": "unintelligible."
+      }
+    ]
+  },
+  {
+    "tid": 297,
+    "negative_425": [
+      {
+        "token_id": 1,
+        "start_token": 7,
+        "end_token": 10,
+        "text": "fairly raw violence"
+      },
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 13,
+        "text": "painful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 37,
+        "end_token": 39,
+        "text": "interminably long"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "insufferable"
+      },
+      {
+        "token_id": 1,
+        "start_token": 58,
+        "end_token": 60,
+        "text": "completely clichéd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 65,
+        "end_token": 67,
+        "text": "incredibly annoying"
+      },
+      {
+        "token_id": 1,
+        "start_token": 255,
+        "end_token": 256,
+        "text": "Avoid"
+      }
+    ]
+  },
+  {
+    "tid": 299,
+    "negative_5819": [
+      {
+        "token_id": 1,
+        "start_token": 43,
+        "end_token": 44,
+        "text": "regret"
+      },
+      {
+        "token_id": 1,
+        "start_token": 49,
+        "end_token": 50,
+        "text": "shameless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 62,
+        "end_token": 63,
+        "text": "waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 118,
+        "end_token": 119,
+        "text": "Ironic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 192,
+        "end_token": 193,
+        "text": "clichéd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 251,
+        "end_token": 252,
+        "text": "depressing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 289,
+        "end_token": 290,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 295,
+        "end_token": 296,
+        "text": "WORST"
+      }
+    ]
+  },
+  {
+    "tid": 301,
+    "negative_2": [
+      {
+        "token_id": 1,
+        "start_token": 15,
+        "end_token": 17,
+        "text": "so ineptly"
+      },
+      {
+        "token_id": 1,
+        "start_token": 21,
+        "end_token": 23,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 211,
+        "end_token": 212,
+        "text": "suspect"
+      },
+      {
+        "token_id": 1,
+        "start_token": 455,
+        "end_token": 456,
+        "text": "CRAP"
+      }
+    ]
+  },
+  {
+    "tid": 303,
+    "negative_6": [
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 13,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 98,
+        "end_token": 99,
+        "text": "sad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 173,
+        "end_token": 175,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 201,
+        "end_token": 202,
+        "text": "seriously"
+      },
+      {
+        "token_id": 1,
+        "start_token": 259,
+        "end_token": 260,
+        "text": "incredible"
+      },
+      {
+        "token_id": 1,
+        "start_token": 321,
+        "end_token": 323,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 382,
+        "end_token": 383,
+        "text": "Waste"
+      },
+      {
+        "token_id": 1,
+        "start_token": 387,
+        "end_token": 389,
+        "text": "not worth"
+      },
+      {
+        "token_id": 1,
+        "start_token": 306,
+        "end_token": 308,
+        "text": "really pathetic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 30,
+        "end_token": 33,
+        "text": "downright awful."
+      },
+      {
+        "token_id": 1,
+        "start_token": 191,
+        "end_token": 192,
+        "text": "laughable."
+      },
+      {
+        "token_id": 1,
+        "start_token": 405,
+        "end_token": 406,
+        "text": "SHAME."
+      }
+    ]
+  },
+  {
+    "tid": 305,
+    "negative_32": [
+      {
+        "token_id": 1,
+        "start_token": 10,
+        "end_token": 12,
+        "text": "pretty bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 129,
+        "end_token": 132,
+        "text": "full of holes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 135,
+        "end_token": 136,
+        "text": "poor"
+      },
+      {
+        "token_id": 1,
+        "start_token": 171,
+        "end_token": 172,
+        "text": "obscuring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 178,
+        "end_token": 180,
+        "text": "plain cheezy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 207,
+        "end_token": 209,
+        "text": "pretty bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 183,
+        "end_token": 184,
+        "text": "blew"
+      },
+      {
+        "token_id": 1,
+        "start_token": 269,
+        "end_token": 270,
+        "text": "waste"
+      }
+    ]
+  },
+  {
+    "tid": 307,
+    "negative_42": [
+      {
+        "token_id": 1,
+        "start_token": 23,
+        "end_token": 24,
+        "text": "FLAWS"
+      },
+      {
+        "token_id": 1,
+        "start_token": 292,
+        "end_token": 293,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 273,
+        "end_token": 275,
+        "text": "technically inept"
+      },
+      {
+        "token_id": 1,
+        "start_token": 303,
+        "end_token": 305,
+        "text": "laugh at"
+      },
+      {
+        "token_id": 1,
+        "start_token": 310,
+        "end_token": 312,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 315,
+        "end_token": 316,
+        "text": "unwatchable"
+      }
+    ]
+  },
+  {
+    "tid": 309,
+    "negative_47": [
+      {
+        "token_id": 1,
+        "start_token": 4,
+        "end_token": 7,
+        "text": "not so original"
+      },
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 19,
+        "text": "nothing new"
+      },
+      {
+        "token_id": 1,
+        "start_token": 31,
+        "end_token": 32,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 33,
+        "end_token": 34,
+        "text": "false"
+      },
+      {
+        "token_id": 1,
+        "start_token": 229,
+        "end_token": 230,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 46,
+        "end_token": 48,
+        "text": "Really boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 226,
+        "end_token": 227,
+        "text": "unfortunatly"
+      }
+    ]
+  },
+  {
+    "tid": 311,
+    "negative_48": [
+      {
+        "token_id": 1,
+        "start_token": 12,
+        "end_token": 14,
+        "text": "really horrendous"
+      },
+      {
+        "token_id": 1,
+        "start_token": 15,
+        "end_token": 17,
+        "text": "utterly obscure"
+      },
+      {
+        "token_id": 1,
+        "start_token": 64,
+        "end_token": 65,
+        "text": "torment"
+      },
+      {
+        "token_id": 1,
+        "start_token": 114,
+        "end_token": 115,
+        "text": "dumb"
+      },
+      {
+        "token_id": 1,
+        "start_token": 290,
+        "end_token": 292,
+        "text": "overall boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 219,
+        "end_token": 220,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 417,
+        "end_token": 418,
+        "text": "senseless"
+      },
+      {
+        "token_id": 1,
+        "start_token": 421,
+        "end_token": 423,
+        "text": "bizarrely rushed"
+      }
+    ]
+  },
+  {
+    "tid": 313,
+    "negative_55": [
+      {
+        "token_id": 1,
+        "start_token": 180,
+        "end_token": 181,
+        "text": "disappointing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 64,
+        "end_token": 65,
+        "text": "crappy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 265,
+        "end_token": 267,
+        "text": "strangely pathetic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 429,
+        "end_token": 431,
+        "text": "most disappointing"
+      }
+    ]
+  },
+  {
+    "tid": 315,
+    "negative_96": [
+      {
+        "token_id": 1,
+        "start_token": 6,
+        "end_token": 7,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 11,
+        "end_token": 12,
+        "text": "insipid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 18,
+        "text": "stink"
+      },
+      {
+        "token_id": 1,
+        "start_token": 34,
+        "end_token": 36,
+        "text": "often absurd"
+      },
+      {
+        "token_id": 1,
+        "start_token": 39,
+        "end_token": 41,
+        "text": "lyrically trite"
+      },
+      {
+        "token_id": 1,
+        "start_token": 42,
+        "end_token": 43,
+        "text": "painfully"
+      },
+      {
+        "token_id": 1,
+        "start_token": 47,
+        "end_token": 48,
+        "text": "hollow"
+      },
+      {
+        "token_id": 1,
+        "start_token": 233,
+        "end_token": 234,
+        "text": "scorn"
+      },
+      {
+        "token_id": 1,
+        "start_token": 254,
+        "end_token": 255,
+        "text": "Wordy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 256,
+        "end_token": 257,
+        "text": "digressive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 258,
+        "end_token": 260,
+        "text": "unduly fastidious"
+      },
+      {
+        "token_id": 1,
+        "start_token": 261,
+        "end_token": 263,
+        "text": "frequently ill-timed"
+      },
+      {
+        "token_id": 1,
+        "start_token": 245,
+        "end_token": 246,
+        "text": "manic"
+      },
+      {
+        "token_id": 1,
+        "start_token": 247,
+        "end_token": 248,
+        "text": "obsessive-compulsive"
+      },
+      {
+        "token_id": 1,
+        "start_token": 278,
+        "end_token": 280,
+        "text": "nervous energy"
+      },
+      {
+        "token_id": 1,
+        "start_token": 284,
+        "end_token": 286,
+        "text": "absolutely indigestible"
+      }
+    ]
+  },
+  {
+    "tid": 317,
+    "negative_107": [
+      {
+        "token_id": 1,
+        "start_token": 42,
+        "end_token": 43,
+        "text": "worst"
+      },
+      {
+        "token_id": 1,
+        "start_token": 149,
+        "end_token": 151,
+        "text": "so convoluted"
+      },
+      {
+        "token_id": 1,
+        "start_token": 250,
+        "end_token": 252,
+        "text": "easily forgotten"
+      },
+      {
+        "token_id": 1,
+        "start_token": 403,
+        "end_token": 404,
+        "text": "disappointed"
+      }
+    ]
+  },
+  {
+    "tid": 319,
+    "negative_134": [
+      {
+        "token_id": 1,
+        "start_token": 3,
+        "end_token": 5,
+        "text": "extremely depressing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 162,
+        "end_token": 163,
+        "text": "dislike"
+      },
+      {
+        "token_id": 1,
+        "start_token": 358,
+        "end_token": 359,
+        "text": "insult"
+      },
+      {
+        "token_id": 1,
+        "start_token": 308,
+        "end_token": 309,
+        "text": "outraged"
+      },
+      {
+        "token_id": 1,
+        "start_token": 389,
+        "end_token": 391,
+        "text": "emotional pain"
+      },
+      {
+        "token_id": 1,
+        "start_token": 17,
+        "end_token": 19,
+        "text": "so cold"
+      }
+    ]
+  },
+  {
+    "tid": 321,
+    "negative_159": [
+      {
+        "token_id": 1,
+        "start_token": 18,
+        "end_token": 19,
+        "text": "danger"
+      },
+      {
+        "token_id": 1,
+        "start_token": 38,
+        "end_token": 39,
+        "text": "bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 67,
+        "end_token": 69,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 58,
+        "end_token": 60,
+        "text": "solidified puke"
+      },
+      {
+        "token_id": 1,
+        "start_token": 81,
+        "end_token": 83,
+        "text": "so bad"
+      },
+      {
+        "token_id": 1,
+        "start_token": 89,
+        "end_token": 91,
+        "text": "less meaningful"
+      },
+      {
+        "token_id": 1,
+        "start_token": 188,
+        "end_token": 189,
+        "text": "crap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 55,
+        "end_token": 56,
+        "text": "rancid"
+      },
+      {
+        "token_id": 1,
+        "start_token": 112,
+        "end_token": 114,
+        "text": "more disturbing"
+      },
+      {
+        "token_id": 1,
+        "start_token": 166,
+        "end_token": 167,
+        "text": "garbage"
+      },
+      {
+        "token_id": 1,
+        "start_token": 248,
+        "end_token": 250,
+        "text": "forever scarred"
+      }
+    ]
+  },
+  {
+    "tid": 323,
+    "negative_162": [
+      {
+        "token_id": 1,
+        "start_token": 215,
+        "end_token": 216,
+        "text": "holes"
+      },
+      {
+        "token_id": 1,
+        "start_token": 314,
+        "end_token": 315,
+        "text": "cheap"
+      },
+      {
+        "token_id": 1,
+        "start_token": 321,
+        "end_token": 322,
+        "text": "low-key"
+      },
+      {
+        "token_id": 1,
+        "start_token": 219,
+        "end_token": 221,
+        "text": "never clear"
+      },
+      {
+        "token_id": 1,
+        "start_token": 323,
+        "end_token": 324,
+        "text": "shrill"
+      }
+    ]
+  },
+  {
+    "tid": 325,
+    "negative_166": [
+      {
+        "token_id": 1,
+        "start_token": 73,
+        "end_token": 74,
+        "text": "boring"
+      },
+      {
+        "token_id": 1,
+        "start_token": 78,
+        "end_token": 80,
+        "text": "not worth"
+      },
+      {
+        "token_id": 1,
+        "start_token": 281,
+        "end_token": 284,
+        "text": "don't recommend"
+      },
+      {
+        "token_id": 1,
+        "start_token": 273,
+        "end_token": 276,
+        "text": "isn't worth"
+      },
+      {
+        "token_id": 1,
+        "start_token": 101,
+        "end_token": 102,
+        "text": "worst"
+      }
+    ]
+  }
+]

@@ -117,3 +117,7 @@ If you find this project helpful, please consider citing our work:
       primaryClass={cs.LG}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LINs-lab/DynMoE&type=Date)](https://star-history.com/#LINs-lab/DynMoE&Date)

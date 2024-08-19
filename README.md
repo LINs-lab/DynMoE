@@ -108,13 +108,11 @@ We are grateful for the following awesome projects:
 If you find this project helpful, please consider citing our work:
 
 ```bibtex
-@misc{guo2024dynamic,
-      title={Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models}, 
-      author={Yongxin Guo and Zhenglin Cheng and Xiaoying Tang and Tao Lin},
-      year={2024},
-      eprint={2405.14297},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{guo2024dynamic,
+  title={Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models},
+  author={Guo, Yongxin and Cheng, Zhenglin and Tang, Xiaoying and Lin, Tao},
+  journal={arXiv preprint arXiv:2405.14297},
+  year={2024}
 }
 ```
 

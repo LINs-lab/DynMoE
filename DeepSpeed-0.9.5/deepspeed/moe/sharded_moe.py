@@ -370,10 +370,10 @@ def topanygating(logits: Tensor, capacity_factor: float, min_capacity: int, K: T
     average_K = sum(K) / len(K)
 
     # capacity = _capacity(gates, torch.tensor(capacity_factor * average_K), torch.tensor(min_capacity))
-    capacity = _capacity(gates, torch.tensor(capacity_factor * max_K), torch.tensor(min_capacity))
-    new_capacity = capacity.to(logits.device)
-    dist.all_reduce(new_capacity, op=dist.ReduceOp.MAX, group=dist.get_world_group())
-    capacity = new_capacity
+    # capacity = _capacity(gates, torch.tensor(capacity_factor * max_K), torch.tensor(min_capacity))
+    # new_capacity = capacity.to(logits.device)
+    # dist.all_reduce(new_capacity, op=dist.ReduceOp.MAX, group=dist.get_world_group())
+    # capacity = new_capacity
 
     # Create a mask for k-st's expert per token
     logits_except_pre = logits + 0.0
@@ -398,7 +398,11 @@ def topanygating(logits: Tensor, capacity_factor: float, min_capacity: int, K: T
         locationsk += pre_locations.int()
         pre_locations += torch.sum(mask, dim=0)
         locations.append(locationsk)
-
+    
+    new_capacity = torch.max(pre_locations).to(logits.device).int() 
+    dist.all_reduce(new_capacity, op=dist.ReduceOp.MAX, group=dist.get_world_group())
+    capacity = new_capacity
+    
     # gating decisions -- not sure the meaning now
     exp_counts = torch.sum(masks[0], dim=0).detach().to('cpu')
 

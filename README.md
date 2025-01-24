@@ -7,8 +7,9 @@
 [![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLINs-lab%2FDynMoE&count_bg=%2379C83D&title_bg=%23454343&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## News
-- **[2024.05.25]** 🔥 Our [checkpoints](https://huggingface.co/collections/LINs-lab/dynmoe-family-665ed5a331a7e84463cab01a) are available now!
-- **[2024.05.23]** 🔥 Our [paper](https://arxiv.org/abs/2405.14297) is released!
+- **[2025.01.23]**: 🎉 Our paper is accepted to ICLR 2025!
+- **[2024.05.25]** Our [checkpoints](https://huggingface.co/collections/LINs-lab/dynmoe-family-665ed5a331a7e84463cab01a) are available now!
+- **[2024.05.23]** Our [paper](https://arxiv.org/abs/2405.14297) is released!
 
 ## Why Do We Need DynMoE?
 

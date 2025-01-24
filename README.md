@@ -60,7 +60,7 @@ Our method also includes an adaptive process **automatically adjusts the number 
 
 ## Environment Setup
 
-Please refer to instructions under `EMoE/` and `MoE-LLaVA`.
+Please refer to instructions under `EMoE/` and `MoE-LLaVA/`.
 
 ## Usage
 
@@ -70,27 +70,10 @@ Please refer to `EMoE/Language/README.md` and `EMoE/Language/Vision.md`.
 
 ### DeepSpeed Examples
 
-Network Configuration
+We give a minimal example to train DynMoE-ViT on ImageNet-1K from scratch at `Examples/DeepSpeed-MoE`.
 
-```python
-deepspeed.moe.layer.MoE(
-  hidden_size=84,
-  expert=fc3,
-  num_experts=n_e // 2,
-  ep_size=args.ep_world_size,
-  use_residual=args.mlp_type == "residual",
-  k=-1, # -1 means using DynMoE
-  min_capacity=args.min_capacity,
-  noisy_gate_policy=args.noisy_gate_policy,
-  max_expert_num=n_e
-)
-```
-
-Training model forward, you can control the adaptive process by using `if_begin_record_routing`, `if_end_record_routing`.
-
-```python
-outputs = model_engine(inputs, if_begin_record_routing=True, if_end_record_routing=True)
-```
+- Check `Examples/DeepSpeed-MoE/dynmoe_vit.py` for how to use DynMoE in model implementation.
+- Check `Examples/DeepSpeed-MoE/train.py` for how to train model with DynMoE.
 
 ## Acknowledgement
 

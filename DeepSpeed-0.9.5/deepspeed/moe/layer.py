@@ -91,7 +91,8 @@ class MoE(torch.nn.Module):
             self.coefficient = torch.nn.Linear(hidden_size, 2)
         
         self.forward_count = 0
-        self.test_time_record = True # only for test time recording
+        self.test_time_record = False
+        self.switch = True if k == -1 else False
 
     def set_deepspeed_parallelism(self):
         self._create_process_groups()
@@ -140,23 +141,27 @@ class MoE(torch.nn.Module):
             * exp_counts (int): expert count
         """
         # === OURS ===
-        if self.forward_count % 100 == 0 and (self.forward_count // 100) % 3 == 1:
-            if_begin_record_routing = True
-            if_end_record_routing = False
-        elif self.forward_count % 100 == 0 and (self.forward_count // 100) % 3 == 2:
-            if_begin_record_routing = False
-            if_end_record_routing = True
-        else:
-            if_begin_record_routing = False
-            if_end_record_routing = False
+        # only support dynmoe
+        if self.switch:
+            if self.forward_count % 300 == 0 and (self.forward_count // 300) % 3 == 1:
+                if_begin_record_routing = True
+                if_end_record_routing = False
+                print('Start record routing at {}'.format(self.forward_count))
+            elif self.forward_count % 300 == 0 and (self.forward_count // 300) % 3 == 2:
+                if_begin_record_routing = False
+                if_end_record_routing = True
+                print('Update at {}'.format(self.forward_count))
+            else:
+                if_begin_record_routing = False
+                if_end_record_routing = False
 
-        # OURS
-        if self.test_time_record and not self.training:
-            self.begin_record_routing()
-            self.test_time_record = False
-        
-        if if_begin_record_routing:
-            self.begin_record_routing()
+            # OURS
+            if self.test_time_record and self.switch and not self.training:
+                self.begin_record_routing()
+                self.test_time_record = False
+            
+            if if_begin_record_routing:
+                self.begin_record_routing()
     
         # === OURS ===
         
@@ -172,12 +177,15 @@ class MoE(torch.nn.Module):
             output = output * coef[..., 0:1] + output_mlp * coef[..., 1:]
         
         # === OURS ===
-        if if_end_record_routing:
-            self.adaptive_update_experts()
-            self.end_record_routing()
 
-        if self.training:
-            self.forward_count += 1
-        # === OURS ===
+        if self.switch:
+            if if_end_record_routing:
+                self.adaptive_update_experts()
+                self.end_record_routing()
+
+            if self.training:
+                self.forward_count += 1
+
+            # === OURS ===
         
         return output, self.deepspeed_moe.l_aux, self.deepspeed_moe.exp_counts

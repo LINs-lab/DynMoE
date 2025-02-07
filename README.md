@@ -56,7 +56,7 @@ Our method also includes an adaptive process **automatically adjusts the number 
 
 ### DynMoE Implementations
 
-- `Deepspeed/` provides DynMoE-Deepspeed implementation.
+- `Deepspeed/` provides DynMoE-Deepspeed implementation. **(Recommend)**
 - `EMoE/tutel/` provides DynMoE-Tutel implementation.
 
 ## Environment Setup
@@ -69,7 +69,7 @@ Please refer to instructions under `EMoE/` and `MoE-LLaVA/`.
 
 Please refer to `EMoE/Language/README.md` and `EMoE/Language/Vision.md`.
 
-### DeepSpeed Examples
+### DeepSpeed Examples (Recommend)
 
 We give a minimal example to train DynMoE-ViT on ImageNet-1K from scratch at `Examples/DeepSpeed-MoE`.
 

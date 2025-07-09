@@ -22,18 +22,14 @@ class Experts(torch.nn.Module):
                 param.allreduce = False
                 param.group_name = expert_group_name
 
-    def forward(self, inputs):  
-      chunks = inputs.chunk(self.num_local_experts, dim=1)  
-      expert_outputs = []  
-  
-      for chunk, expert in zip(chunks, self.deepspeed_experts):    
-          if torch.all(chunk[:, :, :, :].sum(dim=2) == 0):  
-              out = torch.zeros_like(chunk)  
-          else:  
-              out = expert(chunk)  
-              if isinstance(out, tuple):  
-                  out = out[0]  # Ignore the bias term for now
-          expert_outputs.append(out)  
-  
-      expert_output = torch.cat(expert_outputs, dim=1)  
-      return expert_output
+    def forward(self, inputs):
+        chunks = inputs.chunk(self.num_local_experts, dim=1)
+        expert_outputs = []
+        for chunk, expert in zip(chunks, self.deepspeed_experts):
+            out = expert(chunk)
+            if type(out) is tuple:
+                out = out[0]  # Ignore the bias term for now
+            expert_outputs += [out]
+
+        expert_output = torch.cat(expert_outputs, dim=1)
+        return expert_output
